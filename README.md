@@ -1,5 +1,3 @@
-> 🇷🇺 README на русском доступен [здесь](README-RU.md)
-
 > [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/roddyfred)
 
 ![img1](./.github/image/hero.png)
