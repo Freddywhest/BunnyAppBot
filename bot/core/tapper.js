@@ -1,750 +1,746 @@
-const H = E;
-(function (O, B) {
-  const J = E,
-    A = O();
+const h = P;
+(function (r, T) {
+  const R = P,
+    K = r();
   while (!![]) {
     try {
-      const s =
-        parseInt(J("0x165")) / 0x1 +
-        (-parseInt(J("0x128")) / 0x2) * (-parseInt(J("0x19b")) / 0x3) +
-        parseInt(J(0x16c)) / 0x4 +
-        parseInt(J("0x122")) / 0x5 +
-        (parseInt(J(0x16a)) / 0x6) * (-parseInt(J(0x123)) / 0x7) +
-        (-parseInt(J("0x18a")) / 0x8) * (parseInt(J("0x117")) / 0x9) +
-        -parseInt(J("0x15d")) / 0xa;
-      if (s === B) break;
-      else A["push"](A["shift"]());
-    } catch (L) {
-      A["push"](A["shift"]());
+      const j =
+        -parseInt(R(0x222)) / 0x1 +
+        -parseInt(R("0x1b1")) / 0x2 +
+        (-parseInt(R("0x199")) / 0x3) * (-parseInt(R("0x1a0")) / 0x4) +
+        parseInt(R(0x201)) / 0x5 +
+        -parseInt(R("0x1e8")) / 0x6 +
+        (-parseInt(R("0x1d5")) / 0x7) * (-parseInt(R("0x192")) / 0x8) +
+        parseInt(R(0x1d2)) / 0x9;
+      if (j === T) break;
+      else K["push"](K["shift"]());
+    } catch (Z) {
+      K["push"](K["shift"]());
     }
   }
-})(Z, 0x4a351);
-function Z() {
-  const Z1 = [
-    "\x20|\x20❗️Failed\x20to\x20send\x20mega\x20taps\x20|\x20Error\x20Message:\x20\x20",
-    "rules",
-    "socks-proxy-agent",
-    "get_user_data",
-    "Unknown",
-    "split",
-    "random",
-    "10954150bfNTjY",
-    "password",
-    "message",
-    "includes",
-    ";\x20bunnyapp_session=",
-    "ENOTFOUND",
-    "\x20|\x20❗️Unknown\x20error\x20during\x20Authorization:\x20",
-    "\x20|\x20💪\x20Mega\x20Taps\x20sent\x20|\x20💰\x20Total\x20Balance:\x20",
-    "604173BCInHC",
-    "\x20|\x20😴\x20Sleeping\x20for\x205\x20seconds...",
-    "ENOENT",
-    "APPLY_DAILY_ENERGY",
-    "defaults",
-    "6onDxdH",
-    "../utils/sleep",
-    "1652200RvEfxt",
-    "API_URL",
-    "session_name",
-    "get_daily_reward",
-    "\x20|\x20💪\x20Energy\x20reset\x20|\x20💰\x20Total\x20Balance:\x20",
-    "debug",
-    "tg_client",
-    "energy",
-    "username",
-    "Unknown\x20error",
-    "value",
-    "\x20|\x20🚀\x20Resetting\x20Energy....",
-    "start",
-    "utf8",
-    "coins",
-    "run",
-    "cost",
-    "socks",
-    "./api",
-    "\x20|\x20Turbo\x20ended",
-    "getInputEntity",
-    "\x20|\x20❗️Failed\x20to\x20apply\x20turbo\x20|\x20Error\x20Message:\x20\x20",
-    "\x20|\x20🎉\x20Daily\x20reward\x20claimed!\x20|\x20(<gr>+",
-    "\x20|\x20No\x20proxy\x20will\x20be\x20used.",
-    "card",
-    "ECONNREFUSED",
-    "channels",
-    "upgrades",
-    "\x20|\x20🚀\x20Getting\x20Access\x20Token...",
-    "\x20|\x20❗️Unknown\x20error:\x20",
-    "2442056CWuOSS",
-    "create",
-    "host",
-    "info",
-    "webviewUrl",
-    "RANDOM_TAPS_COUNT",
-    "../config/config",
-    "upgrade_boost",
-    "httpbin.org",
-    "get_boost",
-    "data",
-    "\x20|\x20😴\x20sleeping\x20for\x202\x20seconds...",
-    "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x2010000.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]",
-    "exit",
-    "://",
-    "socksType",
-    "../config/app",
-    "45lugSqU",
-    "RESET_ENERGY",
-    "./header",
-    "AUTO_UPGRADE_MULTITAP",
-    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x2020]",
-    "\x20|\x20✅\x20Successfully\x20purchased\x20card:\x20",
-    "APPLY_DAILY_TURBO",
-    "code",
-    "exports",
-    "lodash",
-    ";\x20referral=deleted;\x20remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=",
-    "\x20|\x20\x20🚀Sending\x20Taps...",
-    "MAX_ENERGY_LEVEL",
-    "next_upgrade_rules",
-    "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
-    "headers",
-    "JoinChannel",
-    "\x20|\x20Error\x20Message:\x20",
-    "title",
-    "\x20|\x20❗️\x20Failed\x20to\x20purchase\x20card:\x20",
-    "https://httpbin.org/ip",
-    "\x20|\x20🚀\x20Upgrading\x20Multitap\x20to\x20level\x20",
-    "9EfXAzg",
-    "session_user_agents",
-    "post",
-    "status",
-    "url",
-    ";\x20__cflb=",
-    "invoke",
-    "api",
-    "\x20|\x20💰\x20Total\x20Balance:\x20",
-    "\x20|\x20🔨\x20Multitap\x20upgraded\x20to\x20level\x20",
-    "find",
-    "2885920yOfBfP",
-    "2411969nICQLO",
-    "length",
-    "apply_boost",
-    "MEGA_BOOST",
-    "success",
-    "60638cXjRbQ",
-    "\x20|\x20💰\x20Remaining\x20Balance:\x20",
-    "../config/userAgents",
-    "ios",
-    "count",
-    "messages",
-    "../utils/boost",
-    "XSRF-TOKEN",
-    "level",
-    "replace",
-    "get_cards",
-    "error_message",
-    "readFileSync",
-    "MAX_LEVEL_CARDS",
-    "user",
-    "RANDOM_MEGA_TAPS_COUNT",
-    "get",
-    "origin",
-    "set-cookie",
-    "test",
-    "\x20|\x20⏰\x20Claiming\x20daily\x20reward...",
-    "\x20|\x20❗️Unknown\x20error\x20while\x20getting\x20Access\x20Token:\x20",
-    "port",
-    "\x20|\x20Proxy\x20IP:\x20",
-    "bot",
-    "\x20|\x20Error:\x20Unable\x20to\x20resolve\x20the\x20proxy\x20address.\x20The\x20proxy\x20server\x20at\x20",
-    "\x20|\x20❗️Failed\x20to\x20send\x20taps\x20|\x20Error\x20Message:\x20\x20",
-    "session_user_agents.json",
-    "freddy_bots",
-    "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection.",
-    "axios",
-    "actions",
-    "XSRF-TOKEN=",
-    "\x20|\x20😴\x20sleeping\x20for\x2010\x20seconds...",
-    "\x20seconds\x20left",
-    "USE_PROXY_FROM_FILE",
-    "writeFileSync",
-    "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds...",
-    "RequestWebView",
-    "trim",
-    "error",
-    "\x20|\x20❗️Failed\x20to\x20upgrade\x20energy\x20|\x20Error\x20Message:\x20\x20",
-    "bunnyapp_session",
-    "MULTITAP",
-    "multitap",
-    "ENERGY",
-  ];
-  Z = function () {
-    return Z1;
-  };
-  return Z();
-}
-const { default: axios } = require(H("0x146")),
-  logger = require("../utils/logger"),
-  headers = require(H(0x19d)),
-  { Api } = require("telegram"),
-  { SocksProxyAgent } = require(H("0x158")),
-  settings = require(H("0x190")),
-  app = require(H("0x19a")),
-  user_agents = require(H("0x12a")),
-  fs = require("fs"),
-  sleep = require(H(0x16b)),
-  ApiRequest = require(H(0x17e)),
-  { UpgradableBoostType, FreeBoostType } = require(H(0x12e));
-var _ = require(H(0x1a4));
-function E(O, B) {
-  const A = Z();
+})(e, 0xdbe83);
+function P(r, T) {
+  const K = e();
   return (
-    (E = function (s, L) {
-      s = s - 0x111;
-      let Q = A[s];
-      return Q;
+    (P = function (j, Z) {
+      j = j - 0x18f;
+      let E = K[j];
+      return E;
     }),
-    E(O, B)
+    P(r, T)
   );
 }
+const { default: axios } = require(h("0x210")),
+  logger = require(h("0x220")),
+  headers = require(h("0x1f7")),
+  { Api } = require(h(0x1d4)),
+  { SocksProxyAgent } = require(h("0x1c7")),
+  settings = require(h("0x21b")),
+  app = require("../config/app"),
+  user_agents = require(h("0x21f")),
+  fs = require("fs"),
+  sleep = require("../utils/sleep"),
+  ApiRequest = require(h(0x1b5)),
+  { UpgradableBoostType, FreeBoostType } = require(h(0x19c));
+var _ = require("lodash");
+function e() {
+  const e2 = [
+    "./api",
+    "tg_client",
+    "\x20|\x20Error:\x20",
+    "length",
+    "messages",
+    "is_claimed_today",
+    "\x20|\x20🔨\x20Multitap\x20upgraded\x20to\x20level\x20",
+    "MAX_ENERGY_LEVEL",
+    "MULTITAP",
+    "ENERGY",
+    "cookie",
+    "</gr>)\x20|⚡Remaining\x20Energy:\x20",
+    "multitap",
+    "error",
+    "ENOTFOUND",
+    "Unknown\x20error",
+    "title",
+    "writeFileSync",
+    "socks-proxy-agent",
+    "info",
+    "get",
+    "invoke",
+    "upgrade_boost",
+    "AUTO_BUY_CARDS",
+    "JoinChannel",
+    "send_taps",
+    "AUTO_UPGRADE_ENERGY",
+    "USE_PROXY_FROM_FILE",
+    "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds...",
+    "14036589VpBaCe",
+    "status",
+    "telegram",
+    "77ycMiFL",
+    "Unknown",
+    "actions",
+    "cost",
+    "password",
+    "peer",
+    "message",
+    "ios",
+    ";\x20bunnyapp_session=",
+    "bot",
+    "RANDOM_TAPS_COUNT",
+    "get_boost",
+    "post",
+    "webviewUrl",
+    "start",
+    "api",
+    "user",
+    "session_name",
+    "host",
+    "10149612eKHWqE",
+    "\x20|\x20🚀\x20Starting...",
+    "socks",
+    "ECONNREFUSED",
+    "apply_boost",
+    "/login/telegram_app_auth/callback",
+    "\x20|\x20🚀\x20Upgrading\x20Multitap\x20to\x20level\x20",
+    "set-cookie",
+    "level",
+    "parse",
+    "\x20|\x20💪\x20Energy\x20upgraded\x20to\x20level\x20",
+    "\x20|\x20😴\x20sleeping\x20for\x20",
+    "\x20|\x20⏰\x20Claiming\x20daily\x20reward...",
+    "\x20|\x20🚀\x20Upgrading\x20Energy\x20to\x20level\x20",
+    "port",
+    "./header",
+    ";\x20__cflb=",
+    "freddy_bots",
+    "run",
+    "defaults",
+    "getInputEntity",
+    "\x20|\x20✅\x20Successfully\x20purchased\x20card:\x20",
+    "android",
+    "utf8",
+    "\x20|\x20❗️Failed\x20to\x20send\x20mega\x20taps\x20|\x20Error\x20Message:\x20\x20",
+    "8684850UhFOkP",
+    "session_user_agents.json",
+    "\x20|\x20❗️Failed\x20to\x20upgrade\x20energy\x20|\x20Error\x20Message:\x20\x20",
+    "\x20|\x20💰\x20Total\x20Balance:\x20",
+    "coins",
+    "RequestWebView",
+    "\x20|\x20💰Total\x20Balance:\x20",
+    "\x20|\x20Error\x20Message:\x20",
+    "\x20|\x20🚀\x20Getting\x20Access\x20Token...",
+    "\x20|\x20❗️Failed\x20to\x20send\x20taps\x20|\x20Error\x20Message:\x20\x20",
+    "create",
+    "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection.",
+    "url",
+    "random",
+    "replace",
+    "axios",
+    "MEGA_BOOST",
+    "API_URL",
+    "rules",
+    "test",
+    "\x20|\x20🚀\x20Applying\x20Turbo....",
+    "includes",
+    "session_user_agents",
+    "AUTO_UPGRADE_MULTITAP",
+    "success",
+    "split",
+    "../config/config",
+    "\x20|\x20💪\x20Mega\x20Taps\x20sent\x20|\x20💰\x20Total\x20Balance:\x20",
+    "RANDOM_MEGA_TAPS_COUNT",
+    "card",
+    "../config/userAgents",
+    "../utils/logger",
+    "\x20|\x20💰\x20Remaining\x20Balance:\x20",
+    "595816nMhxIt",
+    "socksType",
+    "buy_card",
+    "headers",
+    "floor",
+    "username",
+    "\x20seconds\x20left",
+    "862440lFjyWl",
+    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x2020]",
+    "getaddrinfo",
+    "data",
+    "send_mega_taps",
+    "debug",
+    "\x20|\x20❗️Failed\x20to\x20upgrade\x20multitap\x20|\x20Error\x20Message:\x20\x20",
+    "602889PnknJn",
+    "type",
+    "exports",
+    "../utils/boost",
+    "SLEEP_BETWEEN_TAP",
+    "RESET_ENERGY",
+    "\x20|\x20❗️Failed\x20to\x20reset\x20energy\x20|\x20Error\x20Message:\x20\x20",
+    "4GMpPDc",
+    "value",
+    "httpbin.org",
+    "upgrades",
+    "get_user_data",
+    "MAX_MULTITAP_LEVEL",
+    "\x20|\x20❗️Failed\x20to\x20claim\x20daily\x20reward\x20|\x20Error\x20Message:\x20\x20",
+    "\x20|\x20\x20🚀Sending\x20Taps...",
+    "MAX_LEVEL_CARDS",
+    "claim_daily_reward",
+    "\x20seconds...",
+    "exit",
+    "error_message",
+    "find",
+    "\x20|\x20❗️Unknown\x20error\x20during\x20Authorization:\x20",
+    "\x20|\x20💪\x20Energy\x20reset\x20|\x20💰\x20Total\x20Balance:\x20",
+    "\x20|\x20Turbo\x20ended",
+    "2990504tUZTIh",
+    "count",
+    "energy",
+    "trim",
+  ];
+  e = function () {
+    return e2;
+  };
+  return e();
+}
 class Tapper {
-  constructor(O) {
-    const I = H;
-    (this[I(0x16e)] = O[I(0x16e)]),
-      (this[I(0x172)] = O[I("0x172")]),
-      (this[I(0x16d)] = app["apiUrl"]),
-      (this[I("0x118")] = this.#load_session_data()),
+  constructor(r) {
+    const i = h;
+    (this[i("0x1e6")] = r["session_name"]),
+      (this[i(0x1b6)] = r[i(0x1b6)]),
+      (this[i("0x212")] = app["apiUrl"]),
+      (this[i("0x217")] = this.#load_session_data()),
       (this["headers"] = { ...headers, "user-agent": this.#get_user_agent() }),
-      (this[I(0x11e)] = new ApiRequest(this["session_name"]));
+      (this["api"] = new ApiRequest(this[i(0x1e6)]));
   }
   #load_session_data() {
-    const F = H;
+    const C = h;
     try {
-      const O = fs[F("0x134")](F("0x143"), F("0x179"));
-      return JSON["parse"](O);
-    } catch (B) {
-      if (B[F(0x1a2)] === F(0x167)) return {};
-      else throw B;
+      const r = fs["readFileSync"](C("0x202"), C(0x1ff));
+      return JSON[C("0x1f1")](r);
+    } catch (T) {
+      if (T["code"] === "ENOENT") return {};
+      else throw T;
     }
   }
   #get_random_user_agent() {
-    const U = H,
-      O = Math["floor"](Math[U(0x15c)]() * user_agents["length"]);
-    return user_agents[O];
+    const J = h,
+      r = Math[J("0x18f")](Math[J("0x20e")]() * user_agents[J("0x1b8")]);
+    return user_agents[r];
   }
   #get_user_agent() {
-    const g = H;
-    if (this["session_user_agents"][this[g(0x16e)]])
-      return this[g(0x118)][this[g("0x16e")]];
-    logger[g("0x18d")](
-      this["session_name"] + "\x20|\x20Generating\x20new\x20user\x20agent..."
+    const A = h;
+    if (this[A("0x217")][this[A(0x1e6)]])
+      return this[A(0x217)][this["session_name"]];
+    logger[A(0x1c8)](
+      this[A(0x1e6)] + "\x20|\x20Generating\x20new\x20user\x20agent..."
     );
-    const O = this.#get_random_user_agent();
+    const r = this.#get_random_user_agent();
     return (
-      (this[g(0x118)][this["session_name"]] = O),
-      this.#save_session_data(this[g("0x118")]),
-      O
+      (this[A(0x217)][this[A("0x1e6")]] = r),
+      this.#save_session_data(this["session_user_agents"]),
+      r
     );
   }
-  #save_session_data(O) {
-    const x = H;
-    fs[x(0x14c)](x("0x143"), JSON["stringify"](O, null, 0x2));
+  #save_session_data(r) {
+    const m = h;
+    fs[m("0x1c6")](m("0x202"), JSON["stringify"](r, null, 0x2));
   }
-  #get_by_type(O, B) {
-    const W = H;
-    return O[W("0x121")]((A) => A["type"] === B) || null;
+  #get_by_type(r, T) {
+    const t = h;
+    return r[t("0x1ad")]((K) => K[t("0x19a")] === T) || null;
   }
-  #get_platform(O) {
-    const k = H,
-      B = [
-        { pattern: /iPhone/i, platform: "ios" },
-        { pattern: /Android/i, platform: "android" },
-        { pattern: /iPad/i, platform: k(0x12b) },
+  #get_platform(r) {
+    const H = h,
+      T = [
+        { pattern: /iPhone/i, platform: H("0x1dc") },
+        { pattern: /Android/i, platform: H("0x1fe") },
+        { pattern: /iPad/i, platform: "ios" },
       ];
-    for (const { pattern: A, platform: s } of B) {
-      if (A[k(0x13b)](O)) return s;
+    for (const { pattern: K, platform: j } of T) {
+      if (K[H("0x214")](r)) return j;
     }
-    return k("0x15a");
+    return H("0x1d6");
   }
-  #proxy_agent(O) {
-    const M = H;
-    if (!O) return null;
-    let B;
+  #proxy_agent(r) {
+    const s = h;
+    if (!r) return null;
+    let T;
     return (
-      !O[M("0x15e")] && !O[M("0x174")]
-        ? (B = M(0x17d) + O[M("0x199")] + "://" + O["ip"] + ":" + O[M("0x13e")])
-        : (B =
-            M("0x17d") +
-            O["socksType"] +
-            M(0x198) +
-            O[M(0x174)] +
+      !r[s(0x1d9)] && !r["username"]
+        ? (T = "socks" + r[s("0x223")] + "://" + r["ip"] + ":" + r["port"])
+        : (T =
+            s(0x1ea) +
+            r[s("0x223")] +
+            "://" +
+            r[s("0x190")] +
             ":" +
-            O[M(0x15e)] +
+            r["password"] +
             "@" +
-            O["ip"] +
+            r["ip"] +
             ":" +
-            O[M(0x13e)]),
-      new SocksProxyAgent(B)
+            r["port"]),
+      new SocksProxyAgent(T)
     );
   }
   async #get_tg_web_data() {
-    const t = H;
+    const z = h;
     try {
-      await this["tg_client"][t(0x178)]();
-      const O = this.#get_platform(this.#get_user_agent()),
-        B = await this[t("0x172")][t(0x11d)](
-          new Api[t("0x12d")][t("0x14e")]({
-            peer: await this[t(0x172)][t("0x180")](app["peer"]),
-            bot: await this[t("0x172")][t(0x180)](app[t("0x140")]),
-            platform: O,
+      await this[z("0x1b6")][z(0x1e3)]();
+      const r = this.#get_platform(this.#get_user_agent()),
+        T = await this[z(0x1b6)]["invoke"](
+          new Api[z(0x1b9)][z("0x206")]({
+            peer: await this[z(0x1b6)][z(0x1fc)](app[z("0x1da")]),
+            bot: await this[z("0x1b6")][z(0x1fc)](app[z("0x1de")]),
+            platform: r,
             from_bot_menu: ![],
-            url: app[t(0x18e)],
+            url: app[z(0x1e2)],
           })
         );
-      await this[t(0x172)][t(0x11d)](
-        new Api[t(0x186)][t("0x111")]({ channel: t(0x144) })
+      await this[z("0x1b6")][z(0x1ca)](
+        new Api["channels"][z(0x1cd)]({ channel: z(0x1f9) })
       );
-      const A = B[t(0x11b)],
-        s = A[t(0x15b)]("#", 0x2)[0x1],
-        L = { uri_hash: "#" + s };
-      return L;
-    } catch (Q) {
-      logger["error"](this[t("0x16e")] + t(0x163) + Q);
-      throw Q;
+      const K = T[z(0x20d)],
+        j = K[z(0x21a)]("#", 0x2)[0x1],
+        Z = { uri_hash: "#" + j };
+      return Z;
+    } catch (E) {
+      logger[z("0x1c2")](this[z(0x1e6)] + z("0x1ae") + E);
+      throw E;
     } finally {
-      await sleep(0x1),
-        logger[t(0x171)](this[t(0x16e)] + "\x20|\x20🚀\x20Starting...");
+      await sleep(0x1), logger["debug"](this[z(0x1e6)] + z(0x1e9));
     }
   }
-  #parse_cookies(O) {
-    const f = H,
-      B = {},
-      A = O[f("0x13a")];
+  #parse_cookies(r) {
+    const v = h,
+      T = {},
+      K = r[v(0x1ef)];
     return (
-      A &&
-        A["forEach"]((s) => {
-          const v = f,
-            L = s["split"](";"),
-            Q = L[0x0],
-            [r, a] = Q[v(0x15b)]("="),
-            w = r[v(0x14f)](),
-            d = a[v("0x14f")]();
-          B[w] = d;
+      K &&
+        K["forEach"]((j) => {
+          const M = v,
+            Z = j[M(0x21a)](";"),
+            E = Z[0x0],
+            [W, b] = E[M("0x21a")]("="),
+            c = W[M(0x1b4)](),
+            X = b["trim"]();
+          T[c] = X;
         }),
-      B
+      T
     );
   }
-  async #get_access_token(O) {
-    const C = H;
+  async #get_access_token(r) {
+    const q = h;
     try {
-      const B = await axios[C("0x119")](
-          this["API_URL"] + "/login/telegram_app_auth/callback",
-          O
-        ),
-        A = B[C(0x194)];
-      return { headers: this.#parse_cookies(B[C(0x1aa)]), data: A };
-    } catch (s) {
-      logger[C("0x150")](this["session_name"] + C(0x13d) + s), await sleep(0x3);
+      const T = await axios[q(0x1e1)](this[q("0x212")] + q(0x1ed), r),
+        K = T["data"];
+      return { headers: this.#parse_cookies(T[q("0x225")]), data: K };
+    } catch (j) {
+      logger[q(0x1c2)](
+        this[q(0x1e6)] +
+          "\x20|\x20❗️Unknown\x20error\x20while\x20getting\x20Access\x20Token:\x20" +
+          j
+      ),
+        await sleep(0x3);
     }
   }
-  async #check_proxy(O, B) {
-    const m = H;
+  async #check_proxy(r, T) {
+    const e0 = h;
     try {
-      O[m("0x169")]["headers"][m(0x18c)] = m("0x192");
-      const A = await O[m(0x138)](m(0x115)),
-        s = A[m(0x194)][m("0x139")];
-      logger[m(0x18d)](this[m("0x16e")] + m(0x13f) + s);
-    } catch (L) {
+      r[e0(0x1fb)]["headers"][e0(0x1e7)] = e0(0x1a2);
+      const K = await r[e0("0x1c9")]("https://httpbin.org/ip"),
+        j = K[e0("0x195")]["origin"];
+      logger[e0(0x1c8)](this[e0(0x1e6)] + "\x20|\x20Proxy\x20IP:\x20" + j);
+    } catch (Z) {
       return (
-        L[m("0x15f")][m(0x160)](m(0x162)) ||
-        L["message"][m(0x160)]("getaddrinfo") ||
-        L[m(0x15f)][m("0x160")](m("0x185"))
-          ? (logger[m(0x150)](
-              this[m(0x16e)] +
-                m(0x141) +
-                B["ip"] +
+        Z[e0("0x1db")][e0("0x216")](e0(0x1c3)) ||
+        Z[e0(0x1db)]["includes"](e0("0x194")) ||
+        Z["message"][e0("0x216")](e0("0x1eb"))
+          ? (logger[e0("0x1c2")](
+              this["session_name"] +
+                "\x20|\x20Error:\x20Unable\x20to\x20resolve\x20the\x20proxy\x20address.\x20The\x20proxy\x20server\x20at\x20" +
+                T["ip"] +
                 ":" +
-                B[m(0x13e)] +
-                m("0x145")
+                T["port"] +
+                e0(0x20c)
             ),
-            logger[m(0x150)](this[m(0x16e)] + m(0x183)))
-          : logger["error"](
-              this[m(0x16e)] +
+            logger["error"](
+              this[e0("0x1e6")] + "\x20|\x20No\x20proxy\x20will\x20be\x20used."
+            ))
+          : logger[e0("0x1c2")](
+              this[e0("0x1e6")] +
                 "\x20|\x20Proxy:\x20" +
-                B["ip"] +
+                T["ip"] +
                 ":" +
-                B[m(0x13e)] +
-                "\x20|\x20Error:\x20" +
-                L[m("0x15f")]
+                T[e0("0x1f6")] +
+                e0("0x1b7") +
+                Z[e0(0x1db)]
             ),
         ![]
       );
     }
   }
-  async [H(0x17b)](O) {
-    const Z0 = H;
-    let B,
-      A = 0x0,
-      s,
-      L,
-      Q,
-      r = 0x0,
-      a = ![],
-      w = ![];
-    if (settings[Z0("0x14b")] && O) {
-      B = axios[Z0(0x18b)]({
-        httpsAgent: this.#proxy_agent(O),
+  async [h("0x1fa")](r) {
+    const e1 = h;
+    let T,
+      K = 0x0,
+      j,
+      Z,
+      E,
+      W = 0x0,
+      b = ![],
+      c = ![];
+    if (settings[e1(0x1d0)] && r) {
+      T = axios["create"]({
+        httpsAgent: this.#proxy_agent(r),
         headers: this["headers"],
         withCredentials: !![],
       });
-      const d = await this.#check_proxy(B, O);
-      !d &&
-        (B = axios["create"]({
-          headers: this[Z0(0x1aa)],
+      const X = await this.#check_proxy(T, r);
+      !X &&
+        (T = axios[e1(0x20b)]({
+          headers: this["headers"],
           withCredentials: !![],
         }));
     } else
-      B = axios["create"]({
-        headers: this[Z0("0x1aa")],
-        withCredentials: !![],
-      });
+      T = axios[e1(0x20b)]({ headers: this[e1(0x225)], withCredentials: !![] });
     while (!![]) {
       try {
-        const q = Date["now"]() / 0x3e8;
-        if (q - A >= 0xe10) {
-          (B["defaults"][Z0(0x1aa)][Z0("0x18c")] = app[Z0("0x18c")]),
-            logger[Z0(0x171)](this[Z0(0x16e)] + Z0("0x188"));
-          const e = await this.#get_tg_web_data(),
-            l = await this.#get_access_token(e);
-          (B["defaults"][Z0(0x1aa)]["cookie"] =
-            Z0("0x148") +
-            l[Z0("0x1aa")][Z0(0x12f)] +
-            Z0("0x161") +
-            l[Z0(0x1aa)][Z0("0x152")] +
-            Z0("0x1a5") +
-            l[Z0(0x1aa)][Z0("0x1a9")] +
-            Z0(0x11c) +
-            l[Z0(0x1aa)]["__cflb"]),
-            (A = q),
+        const F = Date["now"]() / 0x3e8;
+        if (F - K >= 0xe10) {
+          (T[e1("0x1fb")][e1("0x225")][e1("0x1e7")] = app[e1(0x1e7)]),
+            logger[e1(0x197)](this[e1(0x1e6)] + e1("0x209"));
+          const V = await this.#get_tg_web_data(),
+            p = await this.#get_access_token(V);
+          (T[e1(0x1fb)]["headers"][e1("0x1bf")] =
+            "XSRF-TOKEN=" +
+            p[e1("0x225")]["XSRF-TOKEN"] +
+            e1(0x1dd) +
+            p[e1(0x225)]["bunnyapp_session"] +
+            ";\x20referral=deleted;\x20remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=" +
+            p["headers"][
+              "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d"
+            ] +
+            e1(0x1f8) +
+            p[e1(0x225)]["__cflb"]),
+            (K = F),
             await sleep(0x2);
         }
-        (s = await this[Z0("0x11e")][Z0(0x159)](B)),
-          (Q = await this[Z0(0x11e)][Z0(0x16f)](B)),
-          (L = await this["api"][Z0("0x193")](B));
-        if (!s) continue;
-        if (
-          Q &&
-          Q?.["is_claimed_today"] == ![] &&
-          Q?.[Z0("0x11a")] == Z0(0x127)
-        ) {
-          logger[Z0(0x18d)](this[Z0("0x16e")] + Z0("0x13c"));
-          const V = await this[Z0(0x11e)]["claim_daily_reward"](B);
-          V[Z0("0x11a")] == Z0("0x127")
-            ? ((s = await this["api"]["get_user_data"](B)),
-              logger[Z0(0x18d)](
-                this[Z0(0x16e)] +
-                  Z0(0x182) +
-                  V?.["reward_amount"] +
+        (j = await this[e1("0x1e4")][e1(0x1a4)](T)),
+          (E = await this["api"]["get_daily_reward"](T)),
+          (Z = await this[e1("0x1e4")][e1(0x1e0)](T));
+        if (!j) continue;
+        if (E && E?.[e1("0x1ba")] == ![] && E?.[e1("0x1d3")] == e1("0x219")) {
+          logger[e1(0x1c8)](this[e1("0x1e6")] + e1("0x1f4"));
+          const u = await this[e1("0x1e4")][e1("0x1a9")](T);
+          u[e1(0x1d3)] == e1(0x219)
+            ? ((j = await this[e1("0x1e4")][e1("0x1a4")](T)),
+              logger["info"](
+                this[e1(0x1e6)] +
+                  "\x20|\x20🎉\x20Daily\x20reward\x20claimed!\x20|\x20(<gr>+" +
+                  u?.["reward_amount"] +
                   "</gr>)\x20|\x20💰\x20Total\x20Balance:\x20" +
-                  s?.[Z0(0x136)]?.[Z0(0x17a)]
+                  j?.[e1(0x1e5)]?.["coins"]
               ),
-              logger[Z0(0x18d)](this[Z0(0x16e)] + Z0("0x166")),
+              logger[e1(0x1c8)](
+                this[e1("0x1e6")] +
+                  "\x20|\x20😴\x20Sleeping\x20for\x205\x20seconds..."
+              ),
               await sleep(0x5))
-            : logger[Z0("0x150")](
-                this[Z0("0x16e")] +
-                  "\x20|\x20❗️Failed\x20to\x20claim\x20daily\x20reward\x20|\x20Error\x20Message:\x20\x20" +
-                  (V?.[Z0("0x133")]
-                    ? V[Z0("0x133")][Z0(0x131)](".", "\x20")
-                    : Z0(0x175))
+            : logger[e1(0x1c2)](
+                this[e1(0x1e6)] +
+                  e1("0x1a6") +
+                  (u?.[e1("0x1ac")]
+                    ? u["error_message"][e1("0x20f")](".", "\x20")
+                    : e1("0x1c4"))
               );
         }
-        if (settings[Z0(0x19e)]) {
-          const c = this.#get_by_type(
-            L[Z0(0x187)],
-            UpgradableBoostType[Z0(0x153)]
+        if (settings[e1("0x218")]) {
+          const U = this.#get_by_type(
+            Z[e1(0x1a3)],
+            UpgradableBoostType[e1(0x1bd)]
           );
           if (
-            c?.[Z0(0x130)] < settings["MAX_MULTITAP_LEVEL"] &&
-            c?.[Z0("0x17c")] <= s?.[Z0("0x136")]?.[Z0(0x17a)]
+            U?.[e1("0x1f0")] < settings[e1("0x1a5")] &&
+            U?.["cost"] <= j?.[e1("0x1e5")]?.[e1(0x205)]
           ) {
-            logger[Z0(0x18d)](
-              this["session_name"] + Z0(0x116) + (c?.[Z0("0x130")] + 0x1)
+            logger[e1(0x1c8)](
+              this[e1(0x1e6)] + e1("0x1ee") + (U?.[e1("0x1f0")] + 0x1)
             );
-            const N = await this[Z0(0x11e)][Z0("0x191")](
-              B,
-              UpgradableBoostType[Z0("0x153")],
-              c?.["id"]
+            const Q = await this["api"][e1(0x1cb)](
+              T,
+              UpgradableBoostType[e1("0x1bd")],
+              U?.["id"]
             );
-            N[Z0(0x11a)] == Z0("0x127")
-              ? ((s = await this[Z0(0x11e)][Z0(0x159)](B)),
-                logger["info"](
-                  this["session_name"] +
-                    Z0("0x120") +
-                    (c?.[Z0(0x130)] + 0x1) +
-                    Z0("0x11f") +
-                    s?.[Z0(0x136)]?.[Z0("0x17a")]
+            Q["status"] == e1(0x219)
+              ? ((j = await this["api"][e1("0x1a4")](T)),
+                logger[e1("0x1c8")](
+                  this[e1(0x1e6)] +
+                    e1("0x1bb") +
+                    (U?.[e1("0x1f0")] + 0x1) +
+                    e1("0x204") +
+                    j?.["user"]?.[e1(0x205)]
                 ))
-              : logger[Z0("0x150")](
-                  this[Z0(0x16e)] +
-                    "\x20|\x20❗️Failed\x20to\x20upgrade\x20multitap\x20|\x20Error\x20Message:\x20\x20" +
-                    (N?.[Z0(0x133)]
-                      ? N[Z0(0x133)]["replace"](".", "\x20")
-                      : Z0(0x175))
+              : logger[e1("0x1c2")](
+                  this["session_name"] +
+                    e1("0x198") +
+                    (Q?.[e1("0x1ac")]
+                      ? Q[e1("0x1ac")][e1("0x20f")](".", "\x20")
+                      : "Unknown\x20error")
                 ),
-              logger[Z0(0x18d)](this[Z0(0x16e)] + Z0(0x14d)),
+              logger[e1(0x1c8)](this[e1("0x1e6")] + e1("0x1d1")),
               await sleep(0x5);
           }
         }
-        if (settings["AUTO_UPGRADE_ENERGY"]) {
-          const o = this.#get_by_type(
-            L[Z0("0x187")],
-            UpgradableBoostType["ENERGY"]
+        if (settings[e1(0x1cf)]) {
+          const x = this.#get_by_type(
+            Z[e1(0x1a3)],
+            UpgradableBoostType[e1("0x1be")]
           );
           if (
-            o?.[Z0(0x130)] < settings[Z0("0x1a7")] &&
-            o?.[Z0("0x17c")] <= s?.["user"]?.[Z0(0x17a)]
+            x?.[e1("0x1f0")] < settings[e1("0x1bc")] &&
+            x?.[e1("0x1d8")] <= j?.[e1(0x1e5)]?.[e1(0x205)]
           ) {
             logger["info"](
-              this["session_name"] +
-                "\x20|\x20🚀\x20Upgrading\x20Energy\x20to\x20level\x20" +
-                (o?.[Z0("0x130")] + 0x1)
+              this[e1(0x1e6)] + e1(0x1f5) + (x?.[e1(0x1f0)] + 0x1)
             );
-            const G = await this[Z0("0x11e")][Z0("0x191")](
-              B,
-              UpgradableBoostType[Z0(0x155)],
-              o?.["id"]
+            const O = await this[e1(0x1e4)][e1("0x1cb")](
+              T,
+              UpgradableBoostType[e1(0x1be)],
+              x?.["id"]
             );
-            G?.[Z0("0x11a")] == Z0("0x127")
-              ? ((s = await this[Z0(0x11e)][Z0(0x159)](B)),
-                (L = await this[Z0(0x11e)]["get_boost"](B)),
-                logger[Z0("0x18d")](
-                  this["session_name"] +
-                    "\x20|\x20💪\x20Energy\x20upgraded\x20to\x20level\x20" +
-                    (o?.["level"] + 0x1) +
-                    Z0("0x11f") +
-                    s?.["user"]?.[Z0(0x17a)]
+            O?.[e1(0x1d3)] == e1(0x219)
+              ? ((j = await this[e1(0x1e4)][e1(0x1a4)](T)),
+                (Z = await this["api"]["get_boost"](T)),
+                logger[e1(0x1c8)](
+                  this[e1(0x1e6)] +
+                    e1("0x1f2") +
+                    (x?.["level"] + 0x1) +
+                    e1(0x204) +
+                    j?.[e1("0x1e5")]?.[e1("0x205")]
                 ))
-              : logger[Z0(0x150)](
-                  this[Z0("0x16e")] +
-                    Z0("0x151") +
-                    (G?.[Z0(0x133)]
-                      ? G[Z0("0x133")][Z0("0x131")](".", "\x20")
-                      : Z0("0x175"))
+              : logger[e1(0x1c2)](
+                  this["session_name"] +
+                    e1(0x203) +
+                    (O?.[e1("0x1ac")]
+                      ? O["error_message"][e1(0x20f)](".", "\x20")
+                      : e1("0x1c4"))
                 ),
-              logger[Z0(0x18d)](
-                this[Z0("0x16e")] +
+              logger[e1(0x1c8)](
+                this[e1("0x1e6")] +
                   "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds..."
               ),
               await sleep(0x5);
           }
         }
-        if (s?.[Z0("0x173")] < 0x1 && settings[Z0(0x168)]) {
-          const u = this.#get_by_type(
-            L?.[Z0("0x147")],
-            FreeBoostType["RESET_ENERGY"]
-          );
-          if (u?.[Z0("0x12c")] > 0x0) {
-            logger[Z0(0x18d)](this[Z0(0x16e)] + Z0("0x177"));
-            const D = await this[Z0(0x11e)][Z0("0x125")](
-              B,
-              FreeBoostType[Z0("0x19c")]
+        if (j?.["energy"] < 0x1 && settings["APPLY_DAILY_ENERGY"]) {
+          const w = this.#get_by_type(Z?.[e1(0x1d7)], FreeBoostType[e1(0x19e)]);
+          if (w?.[e1(0x1b2)] > 0x0) {
+            logger[e1(0x1c8)](
+              this[e1("0x1e6")] + "\x20|\x20🚀\x20Resetting\x20Energy...."
             );
-            D["status"] == Z0(0x127)
-              ? ((s = await this[Z0("0x11e")]["get_user_data"](B)),
-                (L = await this[Z0(0x11e)][Z0("0x193")](B)),
-                logger[Z0(0x18d)](
-                  this[Z0(0x16e)] + Z0(0x170) + s?.[Z0(0x136)]?.["coins"]
+            const n = await this[e1("0x1e4")][e1(0x1ec)](
+              T,
+              FreeBoostType[e1(0x19e)]
+            );
+            n[e1("0x1d3")] == e1("0x219")
+              ? ((j = await this[e1("0x1e4")][e1(0x1a4)](T)),
+                (Z = await this[e1(0x1e4)][e1(0x1e0)](T)),
+                logger[e1("0x1c8")](
+                  this[e1("0x1e6")] + e1("0x1af") + j?.[e1(0x1e5)]?.["coins"]
                 ))
-              : logger[Z0(0x150)](
-                  this[Z0("0x16e")] +
-                    "\x20|\x20❗️Failed\x20to\x20reset\x20energy\x20|\x20Error\x20Message:\x20\x20" +
-                    (D?.["error_message"]
-                      ? D[Z0(0x133)][Z0("0x131")](".", "\x20")
-                      : Z0(0x175))
+              : logger[e1(0x1c2)](
+                  this["session_name"] +
+                    e1(0x19f) +
+                    (n?.[e1("0x1ac")]
+                      ? n[e1("0x1ac")][e1(0x20f)](".", "\x20")
+                      : "Unknown\x20error")
                 ),
-              logger[Z0(0x18d)](this[Z0("0x16e")] + Z0("0x14d")),
+              logger[e1(0x1c8)](
+                this[e1(0x1e6)] +
+                  "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds..."
+              ),
               await sleep(0x5);
           }
         }
-        if (settings[Z0("0x1a1")]) {
-          const P = await this.#get_by_type(
-            L?.[Z0(0x147)],
-            FreeBoostType["MEGA_BOOST"]
+        if (settings["APPLY_DAILY_TURBO"]) {
+          const D = await this.#get_by_type(
+            Z?.[e1("0x1d7")],
+            FreeBoostType[e1("0x211")]
           );
-          if (P[Z0(0x12c)] > 0x2) {
-            logger[Z0(0x18d)](
-              this[Z0(0x16e)] + "\x20|\x20🚀\x20Applying\x20Turbo...."
+          if (D[e1(0x1b2)] > 0x2) {
+            logger[e1(0x1c8)](this[e1("0x1e6")] + e1(0x215));
+            const f = await this["api"]["apply_boost"](
+              T,
+              FreeBoostType[e1(0x211)]
             );
-            const z = await this["api"][Z0("0x125")](
-              B,
-              FreeBoostType[Z0(0x126)]
-            );
-            z["status"] == Z0("0x127")
-              ? ((s = await this[Z0(0x11e)]["get_user_data"](B)),
-                (L = await this[Z0(0x11e)][Z0("0x193")](B)),
-                (a = !![]),
-                (r = q))
-              : logger["error"](
-                  this[Z0(0x16e)] +
-                    Z0("0x181") +
-                    (z?.["error_message"]
-                      ? z["error_message"][Z0(0x131)](".", "\x20")
-                      : Z0(0x175))
+            f["status"] == e1("0x219")
+              ? ((j = await this["api"][e1(0x1a4)](T)),
+                (Z = await this[e1(0x1e4)][e1("0x1e0")](T)),
+                (b = !![]),
+                (W = F))
+              : logger[e1(0x1c2)](
+                  this[e1(0x1e6)] +
+                    "\x20|\x20❗️Failed\x20to\x20apply\x20turbo\x20|\x20Error\x20Message:\x20\x20" +
+                    (f?.["error_message"]
+                      ? f[e1(0x1ac)][e1("0x20f")](".", "\x20")
+                      : "Unknown\x20error")
                 ),
-              logger[Z0("0x18d")](this[Z0(0x16e)] + Z0(0x14d)),
+              logger["info"](this[e1("0x1e6")] + e1("0x1d1")),
               await sleep(0x5);
           }
         }
-        if (a) {
-          if (q - r < 0x14) {
-            logger[Z0("0x18d")](
-              this["session_name"] +
+        if (b) {
+          if (F - W < 0x14) {
+            logger[e1(0x1c8)](
+              this[e1("0x1e6")] +
                 "\x20|\x20Turbo\x20active\x20|\x20" +
-                (r - q) +
-                Z0("0x14a")
+                (W - F) +
+                e1("0x191")
             );
-            settings["RANDOM_MEGA_TAPS_COUNT"][0x0] >
-              settings[Z0("0x137")][0x1] &&
-              (logger[Z0("0x150")](
-                this[Z0(0x16e)] +
+            settings[e1(0x21d)][0x0] > settings[e1("0x21d")][0x1] &&
+              (logger[e1("0x1c2")](
+                this[e1(0x1e6)] +
                   "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_MEGA_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]"
               ),
-              process[Z0(0x197)](0x1));
-            (settings[Z0(0x137)][0x0] > 0x2710 ||
-              settings[Z0(0x137)][0x1] > 0x2710) &&
-              (logger["error"](this["session_name"] + Z0("0x196")),
-              process[Z0(0x197)](0x1));
-            const h = _[Z0(0x15c)](
-                settings[Z0(0x137)][0x0],
-                settings[Z0(0x137)][0x1]
+              process[e1(0x1ab)](0x1));
+            (settings["RANDOM_MEGA_TAPS_COUNT"][0x0] > 0x2710 ||
+              settings["RANDOM_MEGA_TAPS_COUNT"][0x1] > 0x2710) &&
+              (logger[e1("0x1c2")](
+                this[e1("0x1e6")] +
+                  "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x2010000.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]"
               ),
-              j = s?.[Z0("0x187")]?.["multitap"]?.["level"]
-                ? h * (s?.["upgrades"]?.["multitap"]?.[Z0(0x130)] + 0x1)
-                : h,
-              T = await this[Z0(0x11e)]["send_mega_taps"](B, j);
-            T[Z0(0x11a)] == Z0(0x127)
-              ? ((s = await this[Z0(0x11e)][Z0("0x159")](B)),
-                (L = await this["api"][Z0(0x193)](B)),
-                logger["info"](
-                  this[Z0(0x16e)] + Z0(0x164) + s?.["user"]?.[Z0(0x17a)]
+              process[e1("0x1ab")](0x1));
+            const N = _[e1(0x20e)](
+                settings[e1(0x21d)][0x0],
+                settings[e1(0x21d)][0x1]
+              ),
+              l = j?.[e1("0x1a3")]?.[e1("0x1c1")]?.[e1("0x1f0")]
+                ? N * (j?.[e1("0x1a3")]?.[e1("0x1c1")]?.[e1("0x1f0")] + 0x1)
+                : N,
+              Y = await this[e1(0x1e4)][e1(0x196)](T, l);
+            Y["status"] == "success"
+              ? ((j = await this[e1("0x1e4")][e1(0x1a4)](T)),
+                (Z = await this["api"][e1(0x1e0)](T)),
+                logger[e1(0x1c8)](
+                  this[e1("0x1e6")] + e1(0x21c) + j?.[e1(0x1e5)]?.["coins"]
                 ))
-              : logger[Z0("0x150")](
-                  this[Z0(0x16e)] +
-                    Z0("0x156") +
-                    (T?.[Z0("0x133")]
-                      ? T[Z0("0x133")][Z0(0x131)](".", "\x20")
-                      : "Unknown\x20error")
+              : logger[e1("0x1c2")](
+                  this[e1("0x1e6")] +
+                    e1("0x200") +
+                    (Y?.[e1("0x1ac")]
+                      ? Y[e1(0x1ac)][e1("0x20f")](".", "\x20")
+                      : e1(0x1c4))
                 );
           } else
-            (a = ![]),
-              (r = 0x0),
-              logger[Z0("0x18d")](this[Z0(0x16e)] + Z0(0x17f));
-          logger[Z0("0x18d")](this[Z0("0x16e")] + Z0("0x195")),
+            (b = ![]),
+              (W = 0x0),
+              logger[e1(0x1c8)](this["session_name"] + e1("0x1b0"));
+          logger[e1("0x1c8")](
+            this[e1("0x1e6")] +
+              "\x20|\x20😴\x20sleeping\x20for\x202\x20seconds..."
+          ),
             await sleep(0x2);
         }
-        if (s?.["energy"] > 0x0) {
-          w = ![];
-          settings[Z0(0x18f)][0x0] > settings[Z0("0x18f")][0x1] &&
-            (logger["error"](this[Z0("0x16e")] + Z0("0x19f")),
-            process[Z0(0x197)](0x1));
-          (settings[Z0("0x18f")][0x0] > 0xe10 ||
-            settings[Z0(0x18f)][0x1] > 0xe10) &&
-            (logger[Z0("0x150")](
-              this[Z0(0x16e)] +
+        if (j?.[e1(0x1b3)] > 0x0) {
+          c = ![];
+          settings[e1(0x1df)][0x0] > settings[e1("0x1df")][0x1] &&
+            (logger[e1("0x1c2")](this[e1("0x1e6")] + e1(0x193)),
+            process[e1("0x1ab")](0x1));
+          (settings[e1("0x1df")][0x0] > 0xe10 ||
+            settings[e1("0x1df")][0x1] > 0xe10) &&
+            (logger["error"](
+              this[e1("0x1e6")] +
                 "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x203600.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x203600]"
             ),
-            process[Z0("0x197")](0x1));
-          logger[Z0(0x18d)](this[Z0("0x16e")] + Z0("0x1a6"));
-          const b =
+            process[e1(0x1ab)](0x1));
+          logger[e1("0x1c8")](this[e1("0x1e6")] + e1("0x1a7"));
+          const I =
               !isNaN(
-                parseInt(
-                  s?.[Z0(0x136)]?.[Z0(0x187)]?.["multitap"]?.[Z0("0x130")]
-                )
+                parseInt(j?.["user"]?.[e1(0x1a3)]?.["multitap"]?.[e1(0x1f0)])
               ) &&
-              parseInt(
-                s?.[Z0(0x136)]?.[Z0(0x187)]?.[Z0("0x154")]?.[Z0(0x130)]
-              ) * 0x4b0,
-            R =
-              b +
-              _[Z0("0x15c")](
-                settings[Z0("0x18f")][0x0],
-                settings[Z0("0x18f")][0x1]
+              parseInt(j?.["user"]?.[e1("0x1a3")]?.[e1("0x1c1")]?.["level"]) *
+                0x4b0,
+            g =
+              I +
+              _[e1(0x20e)](
+                settings["RANDOM_TAPS_COUNT"][0x0],
+                settings[e1("0x1df")][0x1]
               ),
-            K = await this[Z0(0x11e)]["send_taps"](B, R);
-          K?.[Z0(0x11a)] == Z0(0x127)
-            ? ((s = await this[Z0(0x11e)][Z0("0x159")](B)),
-              logger[Z0("0x18d")](
-                this[Z0(0x16e)] +
+            k = await this[e1("0x1e4")][e1("0x1ce")](T, g);
+          k?.[e1(0x1d3)] == e1(0x219)
+            ? ((j = await this["api"][e1("0x1a4")](T)),
+              logger[e1("0x1c8")](
+                this[e1(0x1e6)] +
                   "\x20|\x20✅\x20Successfully\x20sent\x20taps\x20|\x20(<gr>+" +
-                  R +
-                  "</gr>)\x20|⚡Remaining\x20Energy:\x20" +
-                  s?.[Z0("0x173")] +
-                  "\x20|\x20💰Total\x20Balance:\x20" +
-                  s?.["user"]?.[Z0("0x17a")]
+                  g +
+                  e1("0x1c0") +
+                  j?.["energy"] +
+                  e1("0x207") +
+                  j?.[e1(0x1e5)]?.["coins"]
               ))
-            : logger[Z0("0x150")](
+            : logger["error"](
                 this["session_name"] +
-                  Z0(0x142) +
-                  (K?.[Z0("0x133")]
-                    ? K[Z0(0x133)][Z0("0x131")](".", "\x20")
-                    : "Unknown\x20error")
+                  e1(0x20a) +
+                  (k?.["error_message"]
+                    ? k[e1(0x1ac)][e1("0x20f")](".", "\x20")
+                    : e1("0x1c4"))
               );
         } else
-          logger[Z0(0x18d)](
-            this[Z0("0x16e")] +
+          logger[e1("0x1c8")](
+            this["session_name"] +
               "\x20|⚡Remaining\x20Energy\x20is\x200,\x20skipping\x20tap..."
           ),
-            (w = !![]);
-        logger[Z0("0x18d")](
-          this["session_name"] +
-            "\x20|\x20😴\x20sleeping\x20for\x2010\x20seconds..."
+            (c = !![]);
+        logger[e1("0x1c8")](
+          this[e1(0x1e6)] + "\x20|\x20😴\x20sleeping\x20for\x2010\x20seconds..."
         ),
           await sleep(0xa);
-        if (settings["AUTO_BUY_CARDS"]) {
-          const X = s?.[Z0(0x136)]?.["coins"] || 0x0,
-            n = await this[Z0("0x11e")][Z0(0x132)](B);
-          if (n) {
-            if (n[Z0(0x124)] > 0x0)
-              for (const Y of n) {
-                const i = Y[Z0(0x1a8)],
-                  S = parseInt(i[Z0("0x157")][0x0][Z0("0x176")]);
-                if (X >= S && settings[Z0("0x135")] >= i[Z0(0x130)]) {
-                  const p = await this[Z0(0x11e)]["buy_card"](
-                    B,
-                    Y[Z0(0x184)]["id"],
-                    i[Z0("0x130")]
+        if (settings[e1("0x1cc")]) {
+          const a = j?.["user"]?.[e1(0x205)] || 0x0,
+            y = await this[e1(0x1e4)]["get_cards"](T);
+          if (y) {
+            if (y[e1(0x1b8)] > 0x0)
+              for (const G of y) {
+                const S = G["next_upgrade_rules"],
+                  d = parseInt(S[e1("0x213")][0x0][e1(0x1a1)]);
+                if (a >= d && settings[e1("0x1a8")] >= S[e1(0x1f0)]) {
+                  const L = await this[e1("0x1e4")][e1("0x224")](
+                    T,
+                    G["card"]["id"],
+                    S[e1(0x1f0)]
                   );
-                  p["status"] === Z0(0x127)
-                    ? ((X -= S),
-                      (s = await this["get_user_data"](B)),
-                      logger[Z0("0x18d")](
-                        this[Z0(0x16e)] +
-                          Z0("0x1a0") +
-                          Y["card"][Z0("0x113")] +
-                          Z0(0x129) +
-                          s[Z0(0x136)]["coins"]
+                  L[e1(0x1d3)] === "success"
+                    ? ((a -= d),
+                      (j = await this[e1(0x1a4)](T)),
+                      logger["info"](
+                        this[e1("0x1e6")] +
+                          e1(0x1fd) +
+                          G[e1(0x21e)][e1(0x1c5)] +
+                          e1("0x221") +
+                          j[e1(0x1e5)][e1(0x205)]
                       ))
-                    : logger[Z0("0x150")](
-                        this["session_name"] +
-                          Z0("0x114") +
-                          Y[Z0(0x184)][Z0("0x113")] +
-                          Z0("0x112") +
-                          p?.[Z0(0x133)]?.["replace"](".", "\x20")
+                    : logger["error"](
+                        this[e1(0x1e6)] +
+                          "\x20|\x20❗️\x20Failed\x20to\x20purchase\x20card:\x20" +
+                          G[e1("0x21e")][e1(0x1c5)] +
+                          e1(0x208) +
+                          L?.["error_message"]?.["replace"](".", "\x20")
                       );
                 }
               }
           }
         }
-      } catch (y) {
-        logger["error"](this[Z0("0x16e")] + Z0("0x189") + y);
+      } catch (o) {
+        logger[e1("0x1c2")](
+          this[e1(0x1e6)] + "\x20|\x20❗️Unknown\x20error:\x20" + o
+        );
       } finally {
-        w
-          ? (logger[Z0(0x18d)](
-              this[Z0(0x16e)] +
-                "\x20|\x20😴\x20sleeping\x20for\x20500\x20seconds..."
-            ),
-            await sleep(0x1f4))
-          : (logger[Z0(0x18d)](this[Z0(0x16e)] + Z0(0x149)), await sleep(0xa));
+        let B;
+        c ? (B = 0x4b0) : (B = settings[e1(0x19d)]),
+          logger["info"](this[e1(0x1e6)] + e1("0x1f3") + B + e1("0x1aa")),
+          await sleep(B);
       }
     }
   }
 }
-module[H(0x1a3)] = Tapper;
+module[h("0x19b")] = Tapper;

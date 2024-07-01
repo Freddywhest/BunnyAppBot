@@ -23,7 +23,7 @@ const settings = {
     : true,
 
   AUTO_UPGRADE_ENERGY: process.env.AUTO_UPGRADE_ENERGY
-    ? process.env.APPLY_DAILY_TURBO.toLowerCase() === "true"
+    ? process.env.AUTO_UPGRADE_ENERGY.toLowerCase() === "true"
     : true,
 
   MAX_ENERGY_LEVEL: process.env.MAX_ENERGY_LEVEL
@@ -41,7 +41,7 @@ const settings = {
     ? process.env.SLEEP_BETWEEN_TAP.split(",").map((str) =>
         parseInt(str.trim())
       )
-    : [15, 25],
+    : 70,
 
   USE_PROXY_FROM_FILE: process.env.USE_PROXY_FROM_FILE
     ? process.env.USE_PROXY_FROM_FILE.toLowerCase() === "true"
