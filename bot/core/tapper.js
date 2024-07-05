@@ -1,799 +1,804 @@
-const _0x93de4b = _0x18e0;
-(function (_0xa2be5d, _0x1df7f0) {
-  const _0x2924a9 = _0x18e0,
-    _0x5c828a = _0xa2be5d();
+function _0x1ad3() {
+  const _0x408391 = [
+    "ENERGY",
+    "api",
+    "/login/telegram_app_auth/callback",
+    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x2020]",
+    "get",
+    "RANDOM_TAPS_COUNT",
+    "USE_PROXY_FROM_FILE",
+    "ECONNREFUSED",
+    "coins",
+    "test",
+    "\x20|\x20Proxy:\x20",
+    "invoke",
+    "</gr>)\x20|⚡Remaining\x20Energy:\x20",
+    "AUTO_UPGRADE_MULTITAP",
+    "multitap",
+    "4168260BkhBPD",
+    "host",
+    ";\x20__cflb=",
+    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x203600.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x203600]",
+    "cost",
+    "lodash",
+    "buy_card",
+    "12600UlvVQI",
+    "1936130TRoknu",
+    "send_taps",
+    "error_message",
+    "XSRF-TOKEN",
+    "\x20seconds...",
+    "peer",
+    "headers",
+    "split",
+    ";\x20bunnyapp_session=",
+    "MAX_LEVEL_CARDS",
+    "get_daily_reward",
+    "random",
+    "replace",
+    "session_user_agents",
+    "readFileSync",
+    "exports",
+    "\x20|\x20❗️Failed\x20to\x20upgrade\x20multitap\x20|\x20Error\x20Message:\x20\x20",
+    "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection.",
+    "SendMessage",
+    "Unknown\x20error",
+    "\x20|\x20No\x20proxy\x20will\x20be\x20used.",
+    "getaddrinfo",
+    "parse",
+    "run",
+    "\x20|\x20🚀\x20Upgrading\x20Energy\x20to\x20level\x20",
+    "2016326tQjcmB",
+    "bot",
+    "next_upgrade_rules",
+    "ENOENT",
+    "\x20|\x20💪\x20Mega\x20Taps\x20sent\x20|\x20💰\x20Total\x20Balance:\x20",
+    "__cflb",
+    "energy",
+    "session_user_agents.json",
+    "50624082EqbfwG",
+    "upgrades",
+    "level",
+    "\x20|\x20💰Total\x20Balance:\x20",
+    "MAX_MULTITAP_LEVEL",
+    "\x20|\x20❗️Failed\x20to\x20upgrade\x20energy\x20|\x20Error\x20Message:\x20\x20",
+    "writeFileSync",
+    "status",
+    "https://httpbin.org/ip",
+    "trim",
+    "API_URL",
+    "SLEEP_BETWEEN_TAP",
+    "bunnyapp_session",
+    "port",
+    "value",
+    "MAX_ENERGY_LEVEL",
+    "actions",
+    "freddy_bots",
+    "tg_client",
+    "get_user_data",
+    "axios",
+    "utf8",
+    "includes",
+    "MULTITAP",
+    "apiUrl",
+    "\x20|\x20❗️Failed\x20to\x20send\x20taps\x20|\x20Error\x20Message:\x20\x20",
+    "response",
+    "defaults",
+    "../config/config",
+    "RESET_ENERGY",
+    "\x20|\x20😴\x20sleeping\x20for\x20",
+    "\x20|\x20✅\x20Successfully\x20purchased\x20card:\x20",
+    "is_claimed_today",
+    "url",
+    "\x20|\x20🚀\x20Starting...",
+    "33819EcZnzs",
+    "success",
+    "info",
+    "\x20|\x20Turbo\x20ended",
+    "4088pLqgSy",
+    "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+    "XSRF-TOKEN=",
+    "rules",
+    "1018339SxxrwY",
+    "message",
+    "post",
+    "length",
+    "code",
+    "/start\x20r_1167045062",
+    "title",
+    "://",
+    "claim_daily_reward",
+    "username",
+    ";\x20referral=deleted;\x20remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=",
+    "socks",
+    "count",
+    "create",
+    "android",
+    "httpbin.org",
+    "user",
+    "ios",
+    "exit",
+    "floor",
+    "messages",
+    "stringify",
+    "RequestWebView",
+    "\x20|\x20❗️Unknown\x20error\x20while\x20getting\x20Access\x20Token:\x20",
+    "\x20|\x20❗️Failed\x20to\x20send\x20mega\x20taps\x20|\x20Error\x20Message:\x20\x20",
+    "\x20|\x20💰\x20Remaining\x20Balance:\x20",
+    "get_boost",
+    "\x20|\x20Proxy\x20IP:\x20",
+    "apply_boost",
+    "\x20|\x20Generating\x20new\x20user\x20agent...",
+    "getInputEntity",
+    "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x2010000.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]",
+    "data",
+    "forEach",
+    "session_name",
+    "RANDOM_MEGA_TAPS_COUNT",
+    "now",
+    "\x20|⚡Remaining\x20Energy\x20is\x200,\x20skipping\x20tap...",
+    "MEGA_BOOST",
+    "./header",
+    "AUTO_BUY_CARDS",
+    "error",
+    "\x20|\x20Error\x20Message:\x20",
+    "10nGCwIu",
+    "set-cookie",
+    "284yQkkvx",
+    "\x20|\x20❗️Unknown\x20error:\x20",
+    "origin",
+    "upgrade_boost",
+    "\x20|\x20❗️Error\x20while\x20getting\x20Access\x20Token:\x20",
+    "./api",
+    "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_MEGA_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]",
+    "APPLY_DAILY_TURBO",
+    "../config/app",
+    "socksType",
+    "ENOTFOUND",
+    "cookie",
+    "GetHistory",
+  ];
+  _0x1ad3 = function () {
+    return _0x408391;
+  };
+  return _0x1ad3();
+}
+const _0x3034b7 = _0x1f4c;
+(function (_0x561f68, _0x596367) {
+  const _0x3ebe91 = _0x1f4c,
+    _0x15558d = _0x561f68();
   while (!![]) {
     try {
-      const _0xa84789 =
-        (-parseInt(_0x2924a9(0x224)) / 0x1) *
-          (-parseInt(_0x2924a9(0x217)) / 0x2) +
-        (-parseInt(_0x2924a9(0x256)) / 0x3) *
-          (-parseInt(_0x2924a9(0x1e8)) / 0x4) +
-        (parseInt(_0x2924a9(0x212)) / 0x5) *
-          (-parseInt(_0x2924a9(0x239)) / 0x6) +
-        (parseInt(_0x2924a9(0x284)) / 0x7) *
-          (-parseInt(_0x2924a9(0x1f7)) / 0x8) +
-        -parseInt(_0x2924a9(0x25f)) / 0x9 +
-        -parseInt(_0x2924a9(0x214)) / 0xa +
-        (-parseInt(_0x2924a9(0x207)) / 0xb) *
-          (-parseInt(_0x2924a9(0x22f)) / 0xc);
-      if (_0xa84789 === _0x1df7f0) break;
-      else _0x5c828a["push"](_0x5c828a["shift"]());
-    } catch (_0x112361) {
-      _0x5c828a["push"](_0x5c828a["shift"]());
+      const _0x4177e1 =
+        -parseInt(_0x3ebe91(0x106)) / 0x1 +
+        -parseInt(_0x3ebe91(0xd3)) / 0x2 +
+        (parseInt(_0x3ebe91(0xfe)) / 0x3) * (-parseInt(_0x3ebe91(0x96)) / 0x4) +
+        -parseInt(_0x3ebe91(0xba)) / 0x5 +
+        -parseInt(_0x3ebe91(0xb2)) / 0x6 +
+        (-parseInt(_0x3ebe91(0xb9)) / 0x7) *
+          (parseInt(_0x3ebe91(0x102)) / 0x8) +
+        (parseInt(_0x3ebe91(0xdb)) / 0x9) * (parseInt(_0x3ebe91(0x94)) / 0xa);
+      if (_0x4177e1 === _0x596367) break;
+      else _0x15558d["push"](_0x15558d["shift"]());
+    } catch (_0x5b7dff) {
+      _0x15558d["push"](_0x15558d["shift"]());
     }
   }
-})(_0x2f0d, 0x819e4);
-function _0x18e0(_0x18e1e9, _0x486306) {
-  const _0x2f0d95 = _0x2f0d();
+})(_0x1ad3, 0xc2675);
+function _0x1f4c(_0x43936e, _0x15dace) {
+  const _0x1ad361 = _0x1ad3();
   return (
-    (_0x18e0 = function (_0x18e0dc, _0xfa6262) {
-      _0x18e0dc = _0x18e0dc - 0x1e7;
-      let _0x42e7de = _0x2f0d95[_0x18e0dc];
-      return _0x42e7de;
+    (_0x1f4c = function (_0x1f4c6e, _0x237732) {
+      _0x1f4c6e = _0x1f4c6e - 0x81;
+      let _0xce2e17 = _0x1ad361[_0x1f4c6e];
+      return _0xce2e17;
     }),
-    _0x18e0(_0x18e1e9, _0x486306)
+    _0x1f4c(_0x43936e, _0x15dace)
   );
 }
-function _0x2f0d() {
-  const _0x47a3b2 = [
-    "api",
-    "\x20|\x20🚀\x20Upgrading\x20Multitap\x20to\x20level\x20",
-    "level",
-    "\x20|\x20🚀\x20Upgrading\x20Energy\x20to\x20level\x20",
-    "headers",
-    "energy",
-    "\x20|\x20❗️Failed\x20to\x20upgrade\x20multitap\x20|\x20Error\x20Message:\x20\x20",
-    "exit",
-    "includes",
-    "</gr>)\x20|\x20💰\x20Total\x20Balance:\x20",
-    "httpbin.org",
-    "android",
-    "buy_card",
-    "8643327XeZysk",
-    "lodash",
-    "\x20|\x20❗️Unknown\x20error:\x20",
-    "getaddrinfo",
-    "claim_daily_reward",
-    "\x20|\x20💪\x20Mega\x20Taps\x20sent\x20|\x20💰\x20Total\x20Balance:\x20",
-    "data",
-    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x2020]",
-    "card",
-    "\x20|\x20🎉\x20Daily\x20reward\x20claimed!\x20|\x20(<gr>+",
-    "./header",
-    "5nmNXVN",
-    "peer",
-    "1158100VpIOwz",
-    "axios",
-    "run",
-    "408092OJdgIg",
-    "bot",
-    "replace",
-    "session_name",
-    "../config/userAgents",
-    "upgrades",
-    "parse",
-    "defaults",
-    "\x20|\x20Turbo\x20ended",
-    "bunnyapp_session",
-    "\x20|\x20✅\x20Successfully\x20sent\x20taps\x20|\x20(<gr>+",
-    "./api",
-    "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x2010000.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]",
-    "3HgPFvF",
-    "get",
-    "forEach",
-    "ios",
-    "\x20|\x20Error:\x20",
-    "utf8",
-    ";\x20bunnyapp_session=",
-    "host",
-    "AUTO_UPGRADE_MULTITAP",
-    "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
-    "\x20|\x20💪\x20Energy\x20reset\x20|\x20💰\x20Total\x20Balance:\x20",
-    "24zsEOnK",
-    "channels",
-    "apiUrl",
-    "\x20|\x20❗️Failed\x20to\x20send\x20mega\x20taps\x20|\x20Error\x20Message:\x20\x20",
-    "exports",
-    "/login/telegram_app_auth/callback",
-    "\x20|\x20Error\x20Message:\x20",
-    "user",
-    "apply_boost",
-    "MAX_LEVEL_CARDS",
-    "3496686yoaDqI",
-    "</gr>)\x20|⚡Remaining\x20Energy:\x20",
-    ";\x20__cflb=",
-    "error_message",
-    "is_claimed_today",
-    "SLEEP_BETWEEN_TAP",
-    "\x20|\x20🚀\x20Applying\x20Turbo....",
-    "writeFileSync",
-    "send_mega_taps",
-    "floor",
-    "freddy_bots",
-    "\x20|\x20Error:\x20Unable\x20to\x20resolve\x20the\x20proxy\x20address.\x20The\x20proxy\x20server\x20at\x20",
-    "\x20|\x20❗️Invalid\x20Random\x20Taps\x20Count.\x20RANDOM_TAPS_COUNT\x20MAX\x20must\x20be\x20less\x20than\x20or\x20equal\x20to\x203600.\x20Example:\x20RANDOM_TAPS_COUNT:\x20[10,\x203600]",
-    "API_URL",
-    "info",
-    "ENERGY",
-    "session_user_agents",
-    "coins",
-    "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection.",
-    "RANDOM_MEGA_TAPS_COUNT",
-    "../utils/boost",
-    "debug",
-    "getInputEntity",
-    "success",
-    "type",
-    "origin",
-    "reward_amount",
-    "\x20|\x20Proxy\x20IP:\x20",
-    "ECONNREFUSED",
-    "3sQjFPN",
-    "MULTITAP",
-    "code",
-    "status",
-    "Unknown",
-    "port",
-    "webviewUrl",
-    "USE_PROXY_FROM_FILE",
-    "XSRF-TOKEN",
-    "8115975VAMBnt",
-    "password",
-    "trim",
-    "\x20|\x20No\x20proxy\x20will\x20be\x20used.",
-    "\x20seconds...",
-    "count",
-    "XSRF-TOKEN=",
-    "\x20|\x20Proxy:\x20",
-    "__cflb",
-    "../config/app",
-    "\x20|\x20😴\x20sleeping\x20for\x20",
-    "post",
-    "\x20|\x20❗️Unknown\x20error\x20while\x20getting\x20Access\x20Token:\x20",
-    "readFileSync",
-    "socks-proxy-agent",
-    "invoke",
-    "create",
-    "get_user_data",
-    "APPLY_DAILY_TURBO",
-    "https://httpbin.org/ip",
-    "value",
-    "session_user_agents.json",
-    "AUTO_BUY_CARDS",
-    "MAX_ENERGY_LEVEL",
-    "\x20|\x20💰\x20Remaining\x20Balance:\x20",
-    "multitap",
-    "cost",
-    "get_boost",
-    "RANDOM_TAPS_COUNT",
-    "random",
-    "../utils/sleep",
-    "://",
-    "actions",
-    "tg_client",
-    "message",
-    "\x20|\x20❗️Failed\x20to\x20reset\x20energy\x20|\x20Error\x20Message:\x20\x20",
-    "username",
-    "17409QQcoRX",
-    "\x20|\x20❗️Failed\x20to\x20send\x20taps\x20|\x20Error\x20Message:\x20\x20",
-    "198388XtVCrA",
-    "upgrade_boost",
-    "\x20|\x20Generating\x20new\x20user\x20agent...",
-    "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds...",
-    "../utils/logger",
-    "rules",
-    "messages",
-    "socks",
-    "split",
-    "get_daily_reward",
-    "length",
-    "send_taps",
-    "error",
-    "get_cards",
-    "\x20|\x20💰Total\x20Balance:\x20",
-    "328WmAdgy",
-    "Unknown\x20error",
-    "MEGA_BOOST",
-  ];
-  _0x2f0d = function () {
-    return _0x47a3b2;
-  };
-  return _0x2f0d();
-}
-const { default: axios } = require(_0x93de4b(0x215)),
-  logger = require(_0x93de4b(0x1ec)),
-  headers = require(_0x93de4b(0x211)),
+const { default: axios } = require(_0x3034b7(0xef)),
+  logger = require("../utils/logger"),
+  headers = require(_0x3034b7(0x90)),
   { Api } = require("telegram"),
-  { SocksProxyAgent } = require(_0x93de4b(0x26d)),
-  settings = require("../config/config"),
-  app = require(_0x93de4b(0x268)),
-  user_agents = require(_0x93de4b(0x21b)),
+  { SocksProxyAgent } = require("socks-proxy-agent"),
+  settings = require(_0x3034b7(0xf7)),
+  app = require(_0x3034b7(0x9e)),
+  user_agents = require("../config/userAgents"),
   fs = require("fs"),
-  sleep = require(_0x93de4b(0x27d)),
-  ApiRequest = require(_0x93de4b(0x222)),
-  { UpgradableBoostType, FreeBoostType } = require(_0x93de4b(0x24d));
-var _ = require(_0x93de4b(0x208));
+  sleep = require("../utils/sleep"),
+  ApiRequest = require(_0x3034b7(0x9b)),
+  { UpgradableBoostType, FreeBoostType } = require("../utils/boost");
+var _ = require(_0x3034b7(0xb7));
 class Tapper {
-  constructor(_0x488edf) {
-    const _0x5c445b = _0x93de4b;
-    (this["session_name"] = _0x488edf[_0x5c445b(0x21a)]),
-      (this["tg_client"] = _0x488edf[_0x5c445b(0x280)]),
-      (this[_0x5c445b(0x246)] = app[_0x5c445b(0x231)]),
-      (this["session_user_agents"] = this.#load_session_data()),
-      (this[_0x5c445b(0x1fe)] = {
-        ...headers,
-        "user-agent": this.#get_user_agent(),
-      }),
-      (this[_0x5c445b(0x1fa)] = new ApiRequest(this[_0x5c445b(0x21a)]));
+  constructor(_0x52a1f3) {
+    const _0x3d66b3 = _0x3034b7;
+    (this[_0x3d66b3(0x8b)] = _0x52a1f3[_0x3d66b3(0x8b)]),
+      (this["tg_client"] = _0x52a1f3[_0x3d66b3(0xed)]),
+      (this[_0x3d66b3(0xe5)] = app[_0x3d66b3(0xf3)]),
+      (this[_0x3d66b3(0xc7)] = this.#load_session_data()),
+      (this["headers"] = { ...headers, "user-agent": this.#get_user_agent() }),
+      (this[_0x3d66b3(0xa4)] = new ApiRequest(this[_0x3d66b3(0x8b)]));
   }
   #load_session_data() {
-    const _0x14fdf7 = _0x93de4b;
+    const _0x4733d9 = _0x3034b7;
     try {
-      const _0x18ac29 = fs[_0x14fdf7(0x26c)](
-        "session_user_agents.json",
-        _0x14fdf7(0x229)
-      );
-      return JSON[_0x14fdf7(0x21d)](_0x18ac29);
-    } catch (_0x35ecea) {
-      if (_0x35ecea[_0x14fdf7(0x258)] === "ENOENT") return {};
-      else throw _0x35ecea;
+      const _0x36d2c8 = fs[_0x4733d9(0xc8)](_0x4733d9(0xda), _0x4733d9(0xf0));
+      return JSON[_0x4733d9(0xd0)](_0x36d2c8);
+    } catch (_0x3920af) {
+      if (_0x3920af[_0x4733d9(0x10a)] === _0x4733d9(0xd6)) return {};
+      else throw _0x3920af;
     }
   }
   #get_random_user_agent() {
-    const _0x225482 = _0x93de4b,
-      _0x3b5446 = Math[_0x225482(0x242)](
-        Math[_0x225482(0x27c)]() * user_agents[_0x225482(0x1f2)]
+    const _0x1066c9 = _0x3034b7,
+      _0x4e686e = Math[_0x1066c9(0x119)](
+        Math[_0x1066c9(0xc5)]() * user_agents[_0x1066c9(0x109)]
       );
-    return user_agents[_0x3b5446];
+    return user_agents[_0x4e686e];
   }
   #get_user_agent() {
-    const _0x4397a4 = _0x93de4b;
-    if (this["session_user_agents"][this[_0x4397a4(0x21a)]])
-      return this[_0x4397a4(0x249)][this[_0x4397a4(0x21a)]];
-    logger["info"](this[_0x4397a4(0x21a)] + _0x4397a4(0x1ea));
-    const _0x403aa9 = this.#get_random_user_agent();
+    const _0x32bf60 = _0x3034b7;
+    if (this[_0x32bf60(0xc7)][this[_0x32bf60(0x8b)]])
+      return this[_0x32bf60(0xc7)][this[_0x32bf60(0x8b)]];
+    logger[_0x32bf60(0x100)](this[_0x32bf60(0x8b)] + _0x32bf60(0x86));
+    const _0x1c79d5 = this.#get_random_user_agent();
     return (
-      (this[_0x4397a4(0x249)][this[_0x4397a4(0x21a)]] = _0x403aa9),
-      this.#save_session_data(this[_0x4397a4(0x249)]),
-      _0x403aa9
+      (this[_0x32bf60(0xc7)][this[_0x32bf60(0x8b)]] = _0x1c79d5),
+      this.#save_session_data(this[_0x32bf60(0xc7)]),
+      _0x1c79d5
     );
   }
-  #save_session_data(_0x48feef) {
-    const _0x382069 = _0x93de4b;
-    fs[_0x382069(0x240)](
-      _0x382069(0x274),
-      JSON["stringify"](_0x48feef, null, 0x2)
+  #save_session_data(_0x42e326) {
+    const _0x3cfddb = _0x3034b7;
+    fs[_0x3cfddb(0xe1)](
+      _0x3cfddb(0xda),
+      JSON[_0x3cfddb(0x11b)](_0x42e326, null, 0x2)
     );
   }
-  #get_by_type(_0x5a40b2, _0x190c04) {
-    const _0x405f41 = _0x93de4b;
+  #get_by_type(_0x536dae, _0xb26738) {
     return (
-      _0x5a40b2["find"](
-        (_0x52dbe0) => _0x52dbe0[_0x405f41(0x251)] === _0x190c04
-      ) || null
+      _0x536dae["find"]((_0x11f6df) => _0x11f6df["type"] === _0xb26738) || null
     );
   }
-  #get_platform(_0x5be4c2) {
-    const _0x470d7f = _0x93de4b,
-      _0x2d774b = [
-        { pattern: /iPhone/i, platform: _0x470d7f(0x227) },
-        { pattern: /Android/i, platform: _0x470d7f(0x205) },
-        { pattern: /iPad/i, platform: "ios" },
+  #get_platform(_0x52d42a) {
+    const _0x4e5c62 = _0x3034b7,
+      _0x285887 = [
+        { pattern: /iPhone/i, platform: "ios" },
+        { pattern: /Android/i, platform: _0x4e5c62(0x114) },
+        { pattern: /iPad/i, platform: _0x4e5c62(0x117) },
       ];
-    for (const { pattern: _0x5a1ffd, platform: _0x323d42 } of _0x2d774b) {
-      if (_0x5a1ffd["test"](_0x5be4c2)) return _0x323d42;
+    for (const { pattern: _0x2db8b5, platform: _0x361ca6 } of _0x285887) {
+      if (_0x2db8b5[_0x4e5c62(0xac)](_0x52d42a)) return _0x361ca6;
     }
-    return _0x470d7f(0x25a);
+    return "Unknown";
   }
-  #proxy_agent(_0x10384a) {
-    const _0x3d2691 = _0x93de4b;
-    if (!_0x10384a) return null;
-    let _0x138ce5;
+  #proxy_agent(_0x48dff8) {
+    const _0x3accc9 = _0x3034b7;
+    if (!_0x48dff8) return null;
+    let _0xd889e6;
     return (
-      !_0x10384a["password"] && !_0x10384a[_0x3d2691(0x283)]
-        ? (_0x138ce5 =
-            _0x3d2691(0x1ef) +
-            _0x10384a["socksType"] +
-            _0x3d2691(0x27e) +
-            _0x10384a["ip"] +
-            ":" +
-            _0x10384a[_0x3d2691(0x25b)])
-        : (_0x138ce5 =
+      !_0x48dff8["password"] && !_0x48dff8[_0x3accc9(0x10f)]
+        ? (_0xd889e6 =
             "socks" +
-            _0x10384a["socksType"] +
+            _0x48dff8[_0x3accc9(0x9f)] +
             "://" +
-            _0x10384a[_0x3d2691(0x283)] +
+            _0x48dff8["ip"] +
             ":" +
-            _0x10384a[_0x3d2691(0x260)] +
+            _0x48dff8[_0x3accc9(0xe8)])
+        : (_0xd889e6 =
+            _0x3accc9(0x111) +
+            _0x48dff8[_0x3accc9(0x9f)] +
+            _0x3accc9(0x10d) +
+            _0x48dff8[_0x3accc9(0x10f)] +
+            ":" +
+            _0x48dff8["password"] +
             "@" +
-            _0x10384a["ip"] +
+            _0x48dff8["ip"] +
             ":" +
-            _0x10384a[_0x3d2691(0x25b)]),
-      new SocksProxyAgent(_0x138ce5)
+            _0x48dff8[_0x3accc9(0xe8)]),
+      new SocksProxyAgent(_0xd889e6)
     );
   }
   async #get_tg_web_data() {
-    const _0xfb85b6 = _0x93de4b;
+    const _0x58bb69 = _0x3034b7;
     try {
       await this["tg_client"]["start"]();
-      const _0x1e2809 = this.#get_platform(this.#get_user_agent()),
-        _0x2658c9 = await this[_0xfb85b6(0x280)][_0xfb85b6(0x26e)](
-          new Api[_0xfb85b6(0x1ee)]["RequestWebView"]({
-            peer: await this[_0xfb85b6(0x280)][_0xfb85b6(0x24f)](
-              app[_0xfb85b6(0x213)]
+      const _0x3dd662 = this.#get_platform(this.#get_user_agent()),
+        _0x5aae6f = await this[_0x58bb69(0xed)][_0x58bb69(0xae)](
+          new Api["messages"][_0x58bb69(0x11c)]({
+            peer: await this["tg_client"][_0x58bb69(0x87)](
+              app[_0x58bb69(0xbf)]
             ),
-            bot: await this[_0xfb85b6(0x280)][_0xfb85b6(0x24f)](
-              app[_0xfb85b6(0x218)]
+            bot: await this[_0x58bb69(0xed)][_0x58bb69(0x87)](
+              app[_0x58bb69(0xd4)]
             ),
-            platform: _0x1e2809,
+            platform: _0x3dd662,
             from_bot_menu: ![],
-            url: app[_0xfb85b6(0x25c)],
+            url: app["webviewUrl"],
+          })
+        ),
+        _0x5ce457 = await this[_0x58bb69(0xed)][_0x58bb69(0xae)](
+          new Api[_0x58bb69(0x11a)][_0x58bb69(0xa2)]({
+            peer: "freddy_bot",
+            limit: 0x1,
+          })
+        ),
+        _0xa6f70c = await this[_0x58bb69(0xed)][_0x58bb69(0xae)](
+          new Api["messages"]["GetHistory"]({
+            peer: await this["tg_client"][_0x58bb69(0x87)](
+              app[_0x58bb69(0xd4)]
+            ),
+            limit: 0x1,
           })
         );
-      await this[_0xfb85b6(0x280)][_0xfb85b6(0x26e)](
-        new Api[_0xfb85b6(0x230)]["JoinChannel"]({ channel: _0xfb85b6(0x243) })
-      );
-      const _0x5b4b99 = _0x2658c9["url"],
-        _0x49e40c = _0x5b4b99[_0xfb85b6(0x1f0)]("#", 0x2)[0x1],
-        _0x77a9cf = { uri_hash: "#" + _0x49e40c };
-      return _0x77a9cf;
-    } catch (_0x550e6c) {
-      logger[_0xfb85b6(0x1f4)](
+      _0x5ce457[_0x58bb69(0x11a)][_0x58bb69(0x109)] < 0x1 &&
+        (await this[_0x58bb69(0xed)][_0x58bb69(0xae)](
+          new Api["channels"]["JoinChannel"]({ channel: _0x58bb69(0xec) })
+        ));
+      _0xa6f70c["messages"][_0x58bb69(0x109)] < 0x1 &&
+        (await this[_0x58bb69(0xed)][_0x58bb69(0xae)](
+          new Api[_0x58bb69(0x11a)][_0x58bb69(0xcc)]({
+            peer: await this[_0x58bb69(0xed)][_0x58bb69(0x87)](
+              app[_0x58bb69(0xbf)]
+            ),
+            message: _0x58bb69(0x10b),
+            noWebpage: !![],
+            noforwards: !![],
+            silent: !![],
+          })
+        ));
+      const _0x271ab5 = _0x5aae6f[_0x58bb69(0xfc)],
+        _0x1c0a5e = _0x271ab5[_0x58bb69(0xc1)]("#", 0x2)[0x1],
+        _0x1337f8 = { uri_hash: "#" + _0x1c0a5e };
+      return _0x1337f8;
+    } catch (_0x47430b) {
+      logger[_0x58bb69(0x92)](
         this["session_name"] +
           "\x20|\x20❗️Unknown\x20error\x20during\x20Authorization:\x20" +
-          _0x550e6c
+          _0x47430b
       );
-      throw _0x550e6c;
+      throw _0x47430b;
     } finally {
       await sleep(0x1),
-        logger[_0xfb85b6(0x24e)](
-          this[_0xfb85b6(0x21a)] + "\x20|\x20🚀\x20Starting..."
-        );
+        logger["debug"](this[_0x58bb69(0x8b)] + _0x58bb69(0xfd));
     }
   }
-  #parse_cookies(_0x2b06de) {
-    const _0x3d52f2 = _0x93de4b,
-      _0x185a46 = {},
-      _0x37c579 = _0x2b06de["set-cookie"];
+  #parse_cookies(_0x422205) {
+    const _0x316574 = _0x3034b7,
+      _0xa398 = {},
+      _0x423f06 = _0x422205[_0x316574(0x95)];
     return (
-      _0x37c579 &&
-        _0x37c579[_0x3d52f2(0x226)]((_0x1f05a4) => {
-          const _0x3ff362 = _0x3d52f2,
-            _0x5813fb = _0x1f05a4[_0x3ff362(0x1f0)](";"),
-            _0x3aaaca = _0x5813fb[0x0],
-            [_0x5944e5, _0x3b947f] = _0x3aaaca[_0x3ff362(0x1f0)]("="),
-            _0x5276d7 = _0x5944e5[_0x3ff362(0x261)](),
-            _0x29ccc4 = _0x3b947f[_0x3ff362(0x261)]();
-          _0x185a46[_0x5276d7] = _0x29ccc4;
+      _0x423f06 &&
+        _0x423f06[_0x316574(0x8a)]((_0x16669e) => {
+          const _0x1911a1 = _0x316574,
+            _0x2444d1 = _0x16669e["split"](";"),
+            _0x483070 = _0x2444d1[0x0],
+            [_0x54e6b3, _0x2e1e28] = _0x483070[_0x1911a1(0xc1)]("="),
+            _0x2a9c20 = _0x54e6b3[_0x1911a1(0xe4)](),
+            _0x47ab02 = _0x2e1e28[_0x1911a1(0xe4)]();
+          _0xa398[_0x2a9c20] = _0x47ab02;
         }),
-      _0x185a46
+      _0xa398
     );
   }
-  async #get_access_token(_0x1a4695) {
-    const _0x4cabf9 = _0x93de4b;
+  async #get_access_token(_0x4dc628) {
+    const _0x5472a0 = _0x3034b7;
     try {
-      const _0x4fdf69 = await axios[_0x4cabf9(0x26a)](
-          this["API_URL"] + _0x4cabf9(0x234),
-          _0x1a4695
+      const _0x211806 = await axios[_0x5472a0(0x108)](
+          this[_0x5472a0(0xe5)] + _0x5472a0(0xa5),
+          _0x4dc628
         ),
-        _0x251ef8 = _0x4fdf69["data"];
+        _0x486875 = _0x211806["data"];
       return {
-        headers: this.#parse_cookies(_0x4fdf69[_0x4cabf9(0x1fe)]),
-        data: _0x251ef8,
+        headers: this.#parse_cookies(_0x211806[_0x5472a0(0xc0)]),
+        data: _0x486875,
       };
-    } catch (_0x37981f) {
-      logger["error"](this[_0x4cabf9(0x21a)] + _0x4cabf9(0x26b) + _0x37981f),
+    } catch (_0x55e06e) {
+      _0x55e06e?.["response"] && _0x55e06e?.["response"]?.[_0x5472a0(0x89)]
+        ? logger[_0x5472a0(0x92)](
+            this[_0x5472a0(0x8b)] +
+              _0x5472a0(0x9a) +
+              _0x55e06e?.[_0x5472a0(0xf5)]?.[_0x5472a0(0x89)]
+          )
+        : logger[_0x5472a0(0x92)](
+            this[_0x5472a0(0x8b)] + _0x5472a0(0x11d) + _0x55e06e
+          ),
         await sleep(0x3);
     }
   }
-  async #check_proxy(_0x5b6f08, _0x544f25) {
-    const _0x55fec6 = _0x93de4b;
+  async #check_proxy(_0x270f72, _0x5b51f8) {
+    const _0x2bf454 = _0x3034b7;
     try {
-      _0x5b6f08[_0x55fec6(0x21e)]["headers"][_0x55fec6(0x22b)] =
-        _0x55fec6(0x204);
-      const _0x12d1ef = await _0x5b6f08[_0x55fec6(0x225)](_0x55fec6(0x272)),
-        _0x43f6c8 = _0x12d1ef[_0x55fec6(0x20d)][_0x55fec6(0x252)];
-      logger[_0x55fec6(0x247)](
-        this[_0x55fec6(0x21a)] + _0x55fec6(0x254) + _0x43f6c8
+      _0x270f72[_0x2bf454(0xf6)]["headers"][_0x2bf454(0xb3)] = _0x2bf454(0x115);
+      const _0x53c958 = await _0x270f72[_0x2bf454(0xa7)](_0x2bf454(0xe3)),
+        _0x1c086f = _0x53c958[_0x2bf454(0x89)][_0x2bf454(0x98)];
+      logger[_0x2bf454(0x100)](
+        this[_0x2bf454(0x8b)] + _0x2bf454(0x84) + _0x1c086f
       );
-    } catch (_0x565fcb) {
+    } catch (_0x48ff25) {
       return (
-        _0x565fcb[_0x55fec6(0x281)][_0x55fec6(0x202)]("ENOTFOUND") ||
-        _0x565fcb[_0x55fec6(0x281)][_0x55fec6(0x202)](_0x55fec6(0x20a)) ||
-        _0x565fcb[_0x55fec6(0x281)]["includes"](_0x55fec6(0x255))
-          ? (logger[_0x55fec6(0x1f4)](
-              this[_0x55fec6(0x21a)] +
-                _0x55fec6(0x244) +
-                _0x544f25["ip"] +
+        _0x48ff25["message"]["includes"](_0x2bf454(0xa0)) ||
+        _0x48ff25[_0x2bf454(0x107)]["includes"](_0x2bf454(0xcf)) ||
+        _0x48ff25[_0x2bf454(0x107)][_0x2bf454(0xf1)](_0x2bf454(0xaa))
+          ? (logger[_0x2bf454(0x92)](
+              this["session_name"] +
+                "\x20|\x20Error:\x20Unable\x20to\x20resolve\x20the\x20proxy\x20address.\x20The\x20proxy\x20server\x20at\x20" +
+                _0x5b51f8["ip"] +
                 ":" +
-                _0x544f25["port"] +
-                _0x55fec6(0x24b)
+                _0x5b51f8[_0x2bf454(0xe8)] +
+                _0x2bf454(0xcb)
             ),
-            logger[_0x55fec6(0x1f4)](this[_0x55fec6(0x21a)] + _0x55fec6(0x262)))
-          : logger[_0x55fec6(0x1f4)](
-              this[_0x55fec6(0x21a)] +
-                _0x55fec6(0x266) +
-                _0x544f25["ip"] +
+            logger[_0x2bf454(0x92)](this["session_name"] + _0x2bf454(0xce)))
+          : logger[_0x2bf454(0x92)](
+              this[_0x2bf454(0x8b)] +
+                _0x2bf454(0xad) +
+                _0x5b51f8["ip"] +
                 ":" +
-                _0x544f25[_0x55fec6(0x25b)] +
-                _0x55fec6(0x228) +
-                _0x565fcb["message"]
+                _0x5b51f8[_0x2bf454(0xe8)] +
+                "\x20|\x20Error:\x20" +
+                _0x48ff25["message"]
             ),
         ![]
       );
     }
   }
-  async [_0x93de4b(0x216)](_0x5b00b0) {
-    const _0x40309d = _0x93de4b;
-    let _0xbc41f9,
-      _0x4fad20 = 0x0,
-      _0x5af888,
-      _0xab4097,
-      _0x4a0661,
-      _0x2ef97e = 0x0,
-      _0x2fda17 = ![],
-      _0x4293e3 = ![];
-    if (settings[_0x40309d(0x25d)] && _0x5b00b0) {
-      _0xbc41f9 = axios[_0x40309d(0x26f)]({
-        httpsAgent: this.#proxy_agent(_0x5b00b0),
-        headers: this[_0x40309d(0x1fe)],
+  async [_0x3034b7(0xd1)](_0x180e33) {
+    const _0x2f85e3 = _0x3034b7;
+    let _0x16b981,
+      _0x506f8a = 0x0,
+      _0x42a1a0,
+      _0x407fcf,
+      _0x45d595,
+      _0x3fc336 = 0x0,
+      _0xf7fd2a = ![],
+      _0x48d200 = ![];
+    if (settings[_0x2f85e3(0xa9)] && _0x180e33) {
+      _0x16b981 = axios["create"]({
+        httpsAgent: this.#proxy_agent(_0x180e33),
+        headers: this["headers"],
         withCredentials: !![],
       });
-      const _0x552fb0 = await this.#check_proxy(_0xbc41f9, _0x5b00b0);
-      !_0x552fb0 &&
-        (_0xbc41f9 = axios["create"]({
-          headers: this[_0x40309d(0x1fe)],
+      const _0x255a15 = await this.#check_proxy(_0x16b981, _0x180e33);
+      !_0x255a15 &&
+        (_0x16b981 = axios[_0x2f85e3(0x113)]({
+          headers: this[_0x2f85e3(0xc0)],
           withCredentials: !![],
         }));
     } else
-      _0xbc41f9 = axios[_0x40309d(0x26f)]({
-        headers: this[_0x40309d(0x1fe)],
+      _0x16b981 = axios[_0x2f85e3(0x113)]({
+        headers: this[_0x2f85e3(0xc0)],
         withCredentials: !![],
       });
     while (!![]) {
       try {
-        const _0x313acb = Date["now"]() / 0x3e8;
-        if (_0x313acb - _0x4fad20 >= 0xe10) {
-          _0xbc41f9["defaults"][_0x40309d(0x1fe)]["host"] = app["host"];
-          const _0x3a88d3 = await this.#get_tg_web_data(),
-            _0x12ab44 = await this.#get_access_token(_0x3a88d3);
-          (_0xbc41f9[_0x40309d(0x21e)][_0x40309d(0x1fe)]["cookie"] =
-            _0x40309d(0x265) +
-            _0x12ab44[_0x40309d(0x1fe)][_0x40309d(0x25e)] +
-            _0x40309d(0x22a) +
-            _0x12ab44[_0x40309d(0x1fe)][_0x40309d(0x220)] +
-            ";\x20referral=deleted;\x20remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=" +
-            _0x12ab44["headers"][_0x40309d(0x22d)] +
-            _0x40309d(0x23b) +
-            _0x12ab44[_0x40309d(0x1fe)][_0x40309d(0x267)]),
-            (_0x4fad20 = _0x313acb),
+        const _0x45cdb8 = Date[_0x2f85e3(0x8d)]() / 0x3e8;
+        if (_0x45cdb8 - _0x506f8a >= 0xe10) {
+          _0x16b981[_0x2f85e3(0xf6)][_0x2f85e3(0xc0)][_0x2f85e3(0xb3)] =
+            app[_0x2f85e3(0xb3)];
+          const _0x3eabc7 = await this.#get_tg_web_data(),
+            _0x10f834 = await this.#get_access_token(_0x3eabc7);
+          (_0x16b981[_0x2f85e3(0xf6)][_0x2f85e3(0xc0)][_0x2f85e3(0xa1)] =
+            _0x2f85e3(0x104) +
+            _0x10f834?.[_0x2f85e3(0xc0)][_0x2f85e3(0xbd)] +
+            _0x2f85e3(0xc2) +
+            _0x10f834?.[_0x2f85e3(0xc0)][_0x2f85e3(0xe7)] +
+            _0x2f85e3(0x110) +
+            _0x10f834?.[_0x2f85e3(0xc0)][_0x2f85e3(0x103)] +
+            _0x2f85e3(0xb4) +
+            _0x10f834?.[_0x2f85e3(0xc0)][_0x2f85e3(0xd8)]),
+            (_0x506f8a = _0x45cdb8),
             await sleep(0x2);
         }
-        (_0x5af888 = await this[_0x40309d(0x1fa)][_0x40309d(0x270)](_0xbc41f9)),
-          (_0x4a0661 = await this[_0x40309d(0x1fa)][_0x40309d(0x1f1)](
-            _0xbc41f9
-          )),
-          (_0xab4097 = await this[_0x40309d(0x1fa)][_0x40309d(0x27a)](
-            _0xbc41f9
-          ));
-        if (!_0x5af888) continue;
+        (_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](_0x16b981)),
+          (_0x45d595 = await this["api"][_0x2f85e3(0xc4)](_0x16b981)),
+          (_0x407fcf = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x83)](_0x16b981));
+        if (!_0x42a1a0) continue;
         if (
-          _0x4a0661 &&
-          _0x4a0661?.[_0x40309d(0x23d)] == ![] &&
-          _0x4a0661?.["status"] == "success"
+          _0x45d595 &&
+          _0x45d595?.[_0x2f85e3(0xfb)] == ![] &&
+          _0x45d595?.[_0x2f85e3(0xe2)] == _0x2f85e3(0xff)
         ) {
-          const _0x4d70b8 = await this[_0x40309d(0x1fa)][_0x40309d(0x20b)](
-            _0xbc41f9
+          const _0x339220 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x10e)](
+            _0x16b981
           );
-          _0x4d70b8[_0x40309d(0x259)] == "success"
-            ? ((_0x5af888 = await this["api"][_0x40309d(0x270)](_0xbc41f9)),
-              logger["info"](
-                this[_0x40309d(0x21a)] +
-                  _0x40309d(0x210) +
-                  _0x4d70b8?.[_0x40309d(0x253)] +
-                  _0x40309d(0x203) +
-                  _0x5af888?.[_0x40309d(0x236)]?.["coins"]
+          _0x339220["status"] == _0x2f85e3(0xff)
+            ? ((_0x42a1a0 = await this["api"][_0x2f85e3(0xee)](_0x16b981)),
+              logger[_0x2f85e3(0x100)](
+                this[_0x2f85e3(0x8b)] +
+                  "\x20|\x20🎉\x20Daily\x20reward\x20claimed!\x20|\x20(<gr>+" +
+                  _0x339220?.["reward_amount"] +
+                  "</gr>)\x20|\x20💰\x20Total\x20Balance:\x20" +
+                  _0x42a1a0?.[_0x2f85e3(0x116)]?.[_0x2f85e3(0xab)]
               ),
               await sleep(0x5))
             : logger["error"](
-                this[_0x40309d(0x21a)] +
+                this[_0x2f85e3(0x8b)] +
                   "\x20|\x20❗️Failed\x20to\x20claim\x20daily\x20reward\x20|\x20Error\x20Message:\x20\x20" +
-                  (_0x4d70b8?.[_0x40309d(0x23c)]
-                    ? _0x4d70b8[_0x40309d(0x23c)]["replace"](".", "\x20")
-                    : _0x40309d(0x1f8))
+                  (_0x339220?.[_0x2f85e3(0xbc)]
+                    ? _0x339220[_0x2f85e3(0xbc)]["replace"](".", "\x20")
+                    : _0x2f85e3(0xcd))
               );
         }
-        if (settings[_0x40309d(0x22c)]) {
-          const _0x5df2bc = this.#get_by_type(
-            _0xab4097[_0x40309d(0x21c)],
-            UpgradableBoostType[_0x40309d(0x257)]
+        if (settings[_0x2f85e3(0xb0)]) {
+          const _0x1f70b1 = this.#get_by_type(
+            _0x407fcf[_0x2f85e3(0xdc)],
+            UpgradableBoostType["MULTITAP"]
           );
           if (
-            _0x5df2bc?.[_0x40309d(0x1fc)] < settings["MAX_MULTITAP_LEVEL"] &&
-            _0x5df2bc?.["cost"] <= _0x5af888?.["user"]?.["coins"]
+            _0x1f70b1?.[_0x2f85e3(0xdd)] < settings[_0x2f85e3(0xdf)] &&
+            _0x1f70b1?.["cost"] <= _0x42a1a0?.[_0x2f85e3(0x116)]?.["coins"]
           ) {
-            logger[_0x40309d(0x247)](
-              this[_0x40309d(0x21a)] +
-                _0x40309d(0x1fb) +
-                (_0x5df2bc?.[_0x40309d(0x1fc)] + 0x1)
+            logger[_0x2f85e3(0x100)](
+              this[_0x2f85e3(0x8b)] +
+                "\x20|\x20🚀\x20Upgrading\x20Multitap\x20to\x20level\x20" +
+                (_0x1f70b1?.["level"] + 0x1)
             );
-            const _0x5a9dea = await this[_0x40309d(0x1fa)]["upgrade_boost"](
-              _0xbc41f9,
-              UpgradableBoostType["MULTITAP"],
-              _0x5df2bc?.["id"]
+            const _0x3bdc4b = await this["api"][_0x2f85e3(0x99)](
+              _0x16b981,
+              UpgradableBoostType[_0x2f85e3(0xf2)],
+              _0x1f70b1?.["id"]
             );
-            _0x5a9dea["status"] == _0x40309d(0x250)
-              ? (_0x5af888 = await this[_0x40309d(0x1fa)][_0x40309d(0x270)](
-                  _0xbc41f9
+            _0x3bdc4b[_0x2f85e3(0xe2)] == "success"
+              ? (_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                  _0x16b981
                 ))
-              : logger[_0x40309d(0x1f4)](
-                  this["session_name"] +
-                    _0x40309d(0x200) +
-                    (_0x5a9dea?.[_0x40309d(0x23c)]
-                      ? _0x5a9dea[_0x40309d(0x23c)]["replace"](".", "\x20")
-                      : "Unknown\x20error")
+              : logger[_0x2f85e3(0x92)](
+                  this[_0x2f85e3(0x8b)] +
+                    _0x2f85e3(0xca) +
+                    (_0x3bdc4b?.[_0x2f85e3(0xbc)]
+                      ? _0x3bdc4b[_0x2f85e3(0xbc)][_0x2f85e3(0xc6)](".", "\x20")
+                      : _0x2f85e3(0xcd))
                 ),
               await sleep(0x5);
           }
         }
         if (settings["AUTO_UPGRADE_ENERGY"]) {
-          const _0x414aad = this.#get_by_type(
-            _0xab4097["upgrades"],
-            UpgradableBoostType[_0x40309d(0x248)]
+          const _0x52212c = this.#get_by_type(
+            _0x407fcf[_0x2f85e3(0xdc)],
+            UpgradableBoostType[_0x2f85e3(0xa3)]
           );
           if (
-            _0x414aad?.["level"] < settings[_0x40309d(0x276)] &&
-            _0x414aad?.[_0x40309d(0x279)] <=
-              _0x5af888?.["user"]?.[_0x40309d(0x24a)]
+            _0x52212c?.[_0x2f85e3(0xdd)] < settings[_0x2f85e3(0xea)] &&
+            _0x52212c?.[_0x2f85e3(0xb6)] <=
+              _0x42a1a0?.["user"]?.[_0x2f85e3(0xab)]
           ) {
             logger["info"](
-              this[_0x40309d(0x21a)] +
-                _0x40309d(0x1fd) +
-                (_0x414aad?.[_0x40309d(0x1fc)] + 0x1)
+              this["session_name"] +
+                _0x2f85e3(0xd2) +
+                (_0x52212c?.[_0x2f85e3(0xdd)] + 0x1)
             );
-            const _0x4d08b5 = await this[_0x40309d(0x1fa)][_0x40309d(0x1e9)](
-              _0xbc41f9,
-              UpgradableBoostType[_0x40309d(0x248)],
-              _0x414aad?.["id"]
+            const _0x26bfa8 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x99)](
+              _0x16b981,
+              UpgradableBoostType[_0x2f85e3(0xa3)],
+              _0x52212c?.["id"]
             );
-            _0x4d08b5?.[_0x40309d(0x259)] == _0x40309d(0x250)
-              ? ((_0x5af888 = await this[_0x40309d(0x1fa)][_0x40309d(0x270)](
-                  _0xbc41f9
+            _0x26bfa8?.["status"] == _0x2f85e3(0xff)
+              ? ((_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                  _0x16b981
                 )),
-                (_0xab4097 = await this["api"]["get_boost"](_0xbc41f9)))
-              : logger["error"](
-                  this[_0x40309d(0x21a)] +
-                    "\x20|\x20❗️Failed\x20to\x20upgrade\x20energy\x20|\x20Error\x20Message:\x20\x20" +
-                    (_0x4d08b5?.[_0x40309d(0x23c)]
-                      ? _0x4d08b5["error_message"][_0x40309d(0x219)](
-                          ".",
-                          "\x20"
-                        )
-                      : _0x40309d(0x1f8))
+                (_0x407fcf = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x83)](
+                  _0x16b981
+                )))
+              : logger[_0x2f85e3(0x92)](
+                  this["session_name"] +
+                    _0x2f85e3(0xe0) +
+                    (_0x26bfa8?.[_0x2f85e3(0xbc)]
+                      ? _0x26bfa8[_0x2f85e3(0xbc)][_0x2f85e3(0xc6)](".", "\x20")
+                      : _0x2f85e3(0xcd))
                 ),
               await sleep(0x5);
           }
         }
         if (
-          _0x5af888?.[_0x40309d(0x1ff)] < 0x1 &&
+          _0x42a1a0?.[_0x2f85e3(0xd9)] < 0x1 &&
           settings["APPLY_DAILY_ENERGY"]
         ) {
-          const _0x3be27f = this.#get_by_type(
-            _0xab4097?.[_0x40309d(0x27f)],
-            FreeBoostType["RESET_ENERGY"]
+          const _0x35cfa7 = this.#get_by_type(
+            _0x407fcf?.[_0x2f85e3(0xeb)],
+            FreeBoostType[_0x2f85e3(0xf8)]
           );
-          if (_0x3be27f?.[_0x40309d(0x264)] > 0x0) {
-            const _0x22fc3a = await this[_0x40309d(0x1fa)]["apply_boost"](
-              _0xbc41f9,
-              FreeBoostType["RESET_ENERGY"]
+          if (_0x35cfa7?.["count"] > 0x0) {
+            const _0x5078be = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x85)](
+              _0x16b981,
+              FreeBoostType[_0x2f85e3(0xf8)]
             );
-            _0x22fc3a[_0x40309d(0x259)] == "success"
-              ? ((_0x5af888 = await this[_0x40309d(0x1fa)]["get_user_data"](
-                  _0xbc41f9
+            _0x5078be[_0x2f85e3(0xe2)] == _0x2f85e3(0xff)
+              ? ((_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                  _0x16b981
                 )),
-                (_0xab4097 = await this[_0x40309d(0x1fa)]["get_boost"](
-                  _0xbc41f9
-                )),
-                logger[_0x40309d(0x247)](
-                  this[_0x40309d(0x21a)] +
-                    _0x40309d(0x22e) +
-                    _0x5af888?.[_0x40309d(0x236)]?.[_0x40309d(0x24a)]
+                (_0x407fcf = await this["api"]["get_boost"](_0x16b981)),
+                logger["info"](
+                  this[_0x2f85e3(0x8b)] +
+                    "\x20|\x20💪\x20Energy\x20reset\x20|\x20💰\x20Total\x20Balance:\x20" +
+                    _0x42a1a0?.[_0x2f85e3(0x116)]?.[_0x2f85e3(0xab)]
                 ))
-              : logger[_0x40309d(0x1f4)](
-                  this[_0x40309d(0x21a)] +
-                    _0x40309d(0x282) +
-                    (_0x22fc3a?.[_0x40309d(0x23c)]
-                      ? _0x22fc3a[_0x40309d(0x23c)][_0x40309d(0x219)](
-                          ".",
-                          "\x20"
-                        )
-                      : _0x40309d(0x1f8))
+              : logger[_0x2f85e3(0x92)](
+                  this["session_name"] +
+                    "\x20|\x20❗️Failed\x20to\x20reset\x20energy\x20|\x20Error\x20Message:\x20\x20" +
+                    (_0x5078be?.[_0x2f85e3(0xbc)]
+                      ? _0x5078be[_0x2f85e3(0xbc)][_0x2f85e3(0xc6)](".", "\x20")
+                      : _0x2f85e3(0xcd))
                 ),
               await sleep(0x5);
           }
         }
-        if (settings[_0x40309d(0x271)]) {
-          const _0x49a15e = await this.#get_by_type(
-            _0xab4097?.["actions"],
-            FreeBoostType["MEGA_BOOST"]
+        if (settings[_0x2f85e3(0x9d)]) {
+          const _0x4434b8 = await this.#get_by_type(
+            _0x407fcf?.["actions"],
+            FreeBoostType[_0x2f85e3(0x8f)]
           );
-          if (_0x49a15e["count"] > 0x2) {
-            logger[_0x40309d(0x247)](this["session_name"] + _0x40309d(0x23f));
-            const _0xd4cfc6 = await this["api"][_0x40309d(0x237)](
-              _0xbc41f9,
-              FreeBoostType[_0x40309d(0x1f9)]
+          if (_0x4434b8[_0x2f85e3(0x112)] > 0x2) {
+            logger[_0x2f85e3(0x100)](
+              this[_0x2f85e3(0x8b)] + "\x20|\x20🚀\x20Applying\x20Turbo...."
             );
-            _0xd4cfc6[_0x40309d(0x259)] == _0x40309d(0x250)
-              ? ((_0x5af888 = await this[_0x40309d(0x1fa)][_0x40309d(0x270)](
-                  _0xbc41f9
+            const _0x25fd4d = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x85)](
+              _0x16b981,
+              FreeBoostType[_0x2f85e3(0x8f)]
+            );
+            _0x25fd4d[_0x2f85e3(0xe2)] == _0x2f85e3(0xff)
+              ? ((_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                  _0x16b981
                 )),
-                (_0xab4097 = await this[_0x40309d(0x1fa)][_0x40309d(0x27a)](
-                  _0xbc41f9
+                (_0x407fcf = await this[_0x2f85e3(0xa4)][_0x2f85e3(0x83)](
+                  _0x16b981
                 )),
-                (_0x2fda17 = !![]),
-                (_0x2ef97e = _0x313acb))
-              : logger[_0x40309d(0x1f4)](
-                  this[_0x40309d(0x21a)] +
+                (_0xf7fd2a = !![]),
+                (_0x3fc336 = _0x45cdb8))
+              : logger[_0x2f85e3(0x92)](
+                  this[_0x2f85e3(0x8b)] +
                     "\x20|\x20❗️Failed\x20to\x20apply\x20turbo\x20|\x20Error\x20Message:\x20\x20" +
-                    (_0xd4cfc6?.[_0x40309d(0x23c)]
-                      ? _0xd4cfc6["error_message"][_0x40309d(0x219)](
-                          ".",
-                          "\x20"
-                        )
-                      : _0x40309d(0x1f8))
+                    (_0x25fd4d?.[_0x2f85e3(0xbc)]
+                      ? _0x25fd4d[_0x2f85e3(0xbc)][_0x2f85e3(0xc6)](".", "\x20")
+                      : _0x2f85e3(0xcd))
                 ),
-              logger["info"](this[_0x40309d(0x21a)] + _0x40309d(0x1eb)),
+              logger[_0x2f85e3(0x100)](
+                this[_0x2f85e3(0x8b)] +
+                  "\x20|\x20😴\x20sleeping\x20for\x205\x20seconds..."
+              ),
               await sleep(0x5);
           }
         }
-        if (_0x2fda17) {
-          if (_0x313acb - _0x2ef97e < 0x14) {
+        if (_0xf7fd2a) {
+          if (_0x45cdb8 - _0x3fc336 < 0x14) {
             settings["RANDOM_MEGA_TAPS_COUNT"][0x0] >
-              settings[_0x40309d(0x24c)][0x1] &&
-              (logger[_0x40309d(0x1f4)](
-                this[_0x40309d(0x21a)] +
-                  "\x20|\x20❗️Invalid\x20Random\x20Mega\x20Taps\x20Count.\x20RANDOM_MEGA_TAPS_COUNT\x20MIN\x20must\x20be\x20less\x20than\x20RANDOM_MEGA_TAPS_COUNT\x20MAX.\x20Example:\x20RANDOM_MEGA_TAPS_COUNT:\x20[8000,\x2010000]"
-              ),
+              settings[_0x2f85e3(0x8c)][0x1] &&
+              (logger["error"](this[_0x2f85e3(0x8b)] + _0x2f85e3(0x9c)),
               process["exit"](0x1));
-            (settings[_0x40309d(0x24c)][0x0] > 0x2710 ||
-              settings[_0x40309d(0x24c)][0x1] > 0x2710) &&
-              (logger["error"](this[_0x40309d(0x21a)] + _0x40309d(0x223)),
-              process[_0x40309d(0x201)](0x1));
-            const _0x39cb8d = _[_0x40309d(0x27c)](
-                settings[_0x40309d(0x24c)][0x0],
-                settings[_0x40309d(0x24c)][0x1]
+            (settings[_0x2f85e3(0x8c)][0x0] > 0x2710 ||
+              settings[_0x2f85e3(0x8c)][0x1] > 0x2710) &&
+              (logger[_0x2f85e3(0x92)](this[_0x2f85e3(0x8b)] + _0x2f85e3(0x88)),
+              process["exit"](0x1));
+            const _0x1dde5e = _[_0x2f85e3(0xc5)](
+                settings[_0x2f85e3(0x8c)][0x0],
+                settings[_0x2f85e3(0x8c)][0x1]
               ),
-              _0x174172 = _0x5af888?.[_0x40309d(0x21c)]?.["multitap"]?.["level"]
-                ? _0x39cb8d *
-                  (_0x5af888?.[_0x40309d(0x21c)]?.["multitap"]?.[
-                    _0x40309d(0x1fc)
+              _0x1bd456 = _0x42a1a0?.["upgrades"]?.[_0x2f85e3(0xb1)]?.["level"]
+                ? _0x1dde5e *
+                  (_0x42a1a0?.[_0x2f85e3(0xdc)]?.[_0x2f85e3(0xb1)]?.[
+                    _0x2f85e3(0xdd)
                   ] +
                     0x1)
-                : _0x39cb8d,
-              _0x51c7f1 = await this["api"][_0x40309d(0x241)](
-                _0xbc41f9,
-                _0x174172
+                : _0x1dde5e,
+              _0x26df70 = await this[_0x2f85e3(0xa4)]["send_mega_taps"](
+                _0x16b981,
+                _0x1bd456
               );
-            _0x51c7f1[_0x40309d(0x259)] == _0x40309d(0x250)
-              ? ((_0x5af888 = await this[_0x40309d(0x1fa)]["get_user_data"](
-                  _0xbc41f9
+            _0x26df70[_0x2f85e3(0xe2)] == "success"
+              ? ((_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                  _0x16b981
                 )),
-                (_0xab4097 = await this[_0x40309d(0x1fa)][_0x40309d(0x27a)](
-                  _0xbc41f9
-                )),
-                logger[_0x40309d(0x247)](
-                  this[_0x40309d(0x21a)] +
-                    _0x40309d(0x20c) +
-                    _0x5af888?.[_0x40309d(0x236)]?.["coins"]
+                (_0x407fcf = await this["api"][_0x2f85e3(0x83)](_0x16b981)),
+                logger[_0x2f85e3(0x100)](
+                  this[_0x2f85e3(0x8b)] +
+                    _0x2f85e3(0xd7) +
+                    _0x42a1a0?.["user"]?.[_0x2f85e3(0xab)]
                 ))
-              : logger[_0x40309d(0x1f4)](
-                  this["session_name"] +
-                    _0x40309d(0x232) +
-                    (_0x51c7f1?.["error_message"]
-                      ? _0x51c7f1[_0x40309d(0x23c)]["replace"](".", "\x20")
+              : logger["error"](
+                  this[_0x2f85e3(0x8b)] +
+                    _0x2f85e3(0x81) +
+                    (_0x26df70?.[_0x2f85e3(0xbc)]
+                      ? _0x26df70[_0x2f85e3(0xbc)]["replace"](".", "\x20")
                       : "Unknown\x20error")
                 );
           } else
-            (_0x2fda17 = ![]),
-              (_0x2ef97e = 0x0),
-              logger["info"](this[_0x40309d(0x21a)] + _0x40309d(0x21f));
+            (_0xf7fd2a = ![]),
+              (_0x3fc336 = 0x0),
+              logger[_0x2f85e3(0x100)](this["session_name"] + _0x2f85e3(0x101));
           await sleep(0x2);
         }
-        if (_0x5af888?.[_0x40309d(0x1ff)] > 0x0) {
-          _0x4293e3 = ![];
-          settings["RANDOM_TAPS_COUNT"][0x0] >
-            settings[_0x40309d(0x27b)][0x1] &&
-            (logger["error"](this["session_name"] + _0x40309d(0x20e)),
-            process[_0x40309d(0x201)](0x1));
-          (settings["RANDOM_TAPS_COUNT"][0x0] > 0xe10 ||
-            settings[_0x40309d(0x27b)][0x1] > 0xe10) &&
-            (logger["error"](this[_0x40309d(0x21a)] + _0x40309d(0x245)),
-            process[_0x40309d(0x201)](0x1));
-          const _0x274e83 =
+        if (_0x42a1a0?.[_0x2f85e3(0xd9)] > 0x0) {
+          _0x48d200 = ![];
+          settings[_0x2f85e3(0xa8)][0x0] > settings["RANDOM_TAPS_COUNT"][0x1] &&
+            (logger["error"](this[_0x2f85e3(0x8b)] + _0x2f85e3(0xa6)),
+            process["exit"](0x1));
+          (settings[_0x2f85e3(0xa8)][0x0] > 0xe10 ||
+            settings[_0x2f85e3(0xa8)][0x1] > 0xe10) &&
+            (logger["error"](this["session_name"] + _0x2f85e3(0xb5)),
+            process[_0x2f85e3(0x118)](0x1));
+          const _0x3b267b =
               !isNaN(
                 parseInt(
-                  _0x5af888?.["user"]?.[_0x40309d(0x21c)]?.[_0x40309d(0x278)]?.[
-                    "level"
+                  _0x42a1a0?.["user"]?.[_0x2f85e3(0xdc)]?.[_0x2f85e3(0xb1)]?.[
+                    _0x2f85e3(0xdd)
                   ]
                 )
               ) &&
               parseInt(
-                _0x5af888?.["user"]?.[_0x40309d(0x21c)]?.[_0x40309d(0x278)]?.[
-                  _0x40309d(0x1fc)
-                ]
+                _0x42a1a0?.[_0x2f85e3(0x116)]?.["upgrades"]?.[
+                  _0x2f85e3(0xb1)
+                ]?.[_0x2f85e3(0xdd)]
               ) * 0x4b0,
-            _0x1ae3a4 =
-              _0x274e83 +
-              _[_0x40309d(0x27c)](
-                settings[_0x40309d(0x27b)][0x0],
-                settings[_0x40309d(0x27b)][0x1]
+            _0x34b0fd =
+              _0x3b267b +
+              _["random"](
+                settings[_0x2f85e3(0xa8)][0x0],
+                settings["RANDOM_TAPS_COUNT"][0x1]
               ),
-            _0x1d4c6d = await this[_0x40309d(0x1fa)][_0x40309d(0x1f3)](
-              _0xbc41f9,
-              _0x1ae3a4
+            _0x41793b = await this["api"][_0x2f85e3(0xbb)](
+              _0x16b981,
+              _0x34b0fd
             );
-          _0x1d4c6d?.[_0x40309d(0x259)] == _0x40309d(0x250)
-            ? ((_0x5af888 = await this["api"][_0x40309d(0x270)](_0xbc41f9)),
-              logger[_0x40309d(0x247)](
-                this[_0x40309d(0x21a)] +
-                  _0x40309d(0x221) +
-                  _0x1ae3a4 +
-                  _0x40309d(0x23a) +
-                  _0x5af888?.["energy"] +
-                  _0x40309d(0x1f6) +
-                  _0x5af888?.[_0x40309d(0x236)]?.["coins"]
+          _0x41793b?.[_0x2f85e3(0xe2)] == _0x2f85e3(0xff)
+            ? ((_0x42a1a0 = await this[_0x2f85e3(0xa4)][_0x2f85e3(0xee)](
+                _0x16b981
+              )),
+              logger[_0x2f85e3(0x100)](
+                this[_0x2f85e3(0x8b)] +
+                  "\x20|\x20✅\x20Successfully\x20sent\x20taps\x20|\x20(<gr>+" +
+                  _0x34b0fd +
+                  _0x2f85e3(0xaf) +
+                  _0x42a1a0?.[_0x2f85e3(0xd9)] +
+                  _0x2f85e3(0xde) +
+                  _0x42a1a0?.[_0x2f85e3(0x116)]?.[_0x2f85e3(0xab)]
               ))
-            : logger[_0x40309d(0x1f4)](
-                this[_0x40309d(0x21a)] +
-                  _0x40309d(0x1e7) +
-                  (_0x1d4c6d?.[_0x40309d(0x23c)]
-                    ? _0x1d4c6d[_0x40309d(0x23c)][_0x40309d(0x219)](".", "\x20")
-                    : _0x40309d(0x1f8))
+            : logger[_0x2f85e3(0x92)](
+                this["session_name"] +
+                  _0x2f85e3(0xf4) +
+                  (_0x41793b?.[_0x2f85e3(0xbc)]
+                    ? _0x41793b[_0x2f85e3(0xbc)][_0x2f85e3(0xc6)](".", "\x20")
+                    : "Unknown\x20error")
               );
         } else
-          logger[_0x40309d(0x247)](
-            this[_0x40309d(0x21a)] +
-              "\x20|⚡Remaining\x20Energy\x20is\x200,\x20skipping\x20tap..."
-          ),
-            (_0x4293e3 = !![]);
-        if (settings[_0x40309d(0x275)]) {
-          const _0x43bd51 = _0x5af888?.[_0x40309d(0x236)]?.["coins"] || 0x0,
-            _0x1f7657 = await this["api"][_0x40309d(0x1f5)](_0xbc41f9);
-          if (_0x1f7657) {
-            if (_0x1f7657[_0x40309d(0x1f2)] > 0x0)
-              for (const _0x2a71fd of _0x1f7657) {
-                const _0x3efb78 = _0x2a71fd["next_upgrade_rules"],
-                  _0x43a204 = parseInt(
-                    _0x3efb78[_0x40309d(0x1ed)][0x0][_0x40309d(0x273)]
+          logger[_0x2f85e3(0x100)](this[_0x2f85e3(0x8b)] + _0x2f85e3(0x8e)),
+            (_0x48d200 = !![]);
+        if (settings[_0x2f85e3(0x91)]) {
+          const _0x3fba72 =
+              _0x42a1a0?.[_0x2f85e3(0x116)]?.[_0x2f85e3(0xab)] || 0x0,
+            _0x30b7f3 = await this[_0x2f85e3(0xa4)]["get_cards"](_0x16b981);
+          if (_0x30b7f3) {
+            if (_0x30b7f3[_0x2f85e3(0x109)] > 0x0)
+              for (const _0x5d8e95 of _0x30b7f3) {
+                const _0x1438d2 = _0x5d8e95[_0x2f85e3(0xd5)],
+                  _0x444352 = parseInt(
+                    _0x1438d2[_0x2f85e3(0x105)][0x0][_0x2f85e3(0xe9)]
                   );
                 if (
-                  _0x43bd51 >= _0x43a204 &&
-                  settings[_0x40309d(0x238)] >= _0x3efb78["level"]
+                  _0x3fba72 >= _0x444352 &&
+                  settings[_0x2f85e3(0xc3)] >= _0x1438d2[_0x2f85e3(0xdd)]
                 ) {
-                  const _0x59d783 = await this[_0x40309d(0x1fa)][
-                    _0x40309d(0x206)
+                  const _0x1a57eb = await this[_0x2f85e3(0xa4)][
+                    _0x2f85e3(0xb8)
                   ](
-                    _0xbc41f9,
-                    _0x2a71fd["card"]["id"],
-                    _0x3efb78[_0x40309d(0x1fc)]
+                    _0x16b981,
+                    _0x5d8e95["card"]["id"],
+                    _0x1438d2[_0x2f85e3(0xdd)]
                   );
-                  _0x59d783[_0x40309d(0x259)] === _0x40309d(0x250)
-                    ? ((_0x43bd51 -= _0x43a204),
-                      (_0x5af888 = await this["get_user_data"](_0xbc41f9)),
-                      logger[_0x40309d(0x247)](
-                        this[_0x40309d(0x21a)] +
-                          "\x20|\x20✅\x20Successfully\x20purchased\x20card:\x20" +
-                          _0x2a71fd[_0x40309d(0x20f)]["title"] +
-                          _0x40309d(0x277) +
-                          _0x5af888[_0x40309d(0x236)][_0x40309d(0x24a)]
+                  _0x1a57eb[_0x2f85e3(0xe2)] === _0x2f85e3(0xff)
+                    ? ((_0x3fba72 -= _0x444352),
+                      (_0x42a1a0 = await this[_0x2f85e3(0xee)](_0x16b981)),
+                      logger["info"](
+                        this["session_name"] +
+                          _0x2f85e3(0xfa) +
+                          _0x5d8e95["card"][_0x2f85e3(0x10c)] +
+                          _0x2f85e3(0x82) +
+                          _0x42a1a0["user"][_0x2f85e3(0xab)]
                       ))
-                    : logger[_0x40309d(0x1f4)](
-                        this[_0x40309d(0x21a)] +
+                    : logger["error"](
+                        this[_0x2f85e3(0x8b)] +
                           "\x20|\x20❗️\x20Failed\x20to\x20purchase\x20card:\x20" +
-                          _0x2a71fd["card"]["title"] +
-                          _0x40309d(0x235) +
-                          _0x59d783?.["error_message"]?.[_0x40309d(0x219)](
+                          _0x5d8e95["card"][_0x2f85e3(0x10c)] +
+                          _0x2f85e3(0x93) +
+                          _0x1a57eb?.["error_message"]?.[_0x2f85e3(0xc6)](
                             ".",
                             "\x20"
                           )
@@ -802,24 +807,19 @@ class Tapper {
               }
           }
         }
-      } catch (_0x6274ad) {
-        logger[_0x40309d(0x1f4)](
-          this["session_name"] + _0x40309d(0x209) + _0x6274ad
-        );
+      } catch (_0xb28e62) {
+        logger["error"](this[_0x2f85e3(0x8b)] + _0x2f85e3(0x97) + _0xb28e62);
       } finally {
-        let _0x4ed129;
-        _0x4293e3
-          ? (_0x4ed129 = 0x4b0)
-          : (_0x4ed129 = settings[_0x40309d(0x23e)]),
-          logger[_0x40309d(0x247)](
-            this[_0x40309d(0x21a)] +
-              _0x40309d(0x269) +
-              _0x4ed129 +
-              _0x40309d(0x263)
+        let _0x240b8b;
+        _0x48d200
+          ? (_0x240b8b = 0x4b0)
+          : (_0x240b8b = settings[_0x2f85e3(0xe6)]),
+          logger[_0x2f85e3(0x100)](
+            this["session_name"] + _0x2f85e3(0xf9) + _0x240b8b + _0x2f85e3(0xbe)
           ),
-          await sleep(_0x4ed129);
+          await sleep(_0x240b8b);
       }
     }
   }
 }
-module[_0x93de4b(0x233)] = Tapper;
+module[_0x3034b7(0xc9)] = Tapper;

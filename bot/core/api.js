@@ -1,265 +1,314 @@
-const _0x47df5e = _0x4dc9;
-(function (_0x247136, _0x1f9e63) {
-  const _0x5cdff2 = _0x4dc9,
-    _0x392647 = _0x247136();
+const _0x4aee72 = _0x3a15;
+(function (_0x561085, _0x37a6f8) {
+  const _0x299a0d = _0x3a15,
+    _0x5523a8 = _0x561085();
   while (!![]) {
     try {
-      const _0x18252d =
-        parseInt(_0x5cdff2(0x1f5)) / 0x1 +
-        (-parseInt(_0x5cdff2(0x1fe)) / 0x2) *
-          (-parseInt(_0x5cdff2(0x20a)) / 0x3) +
-        parseInt(_0x5cdff2(0x210)) / 0x4 +
-        parseInt(_0x5cdff2(0x1eb)) / 0x5 +
-        -parseInt(_0x5cdff2(0x1fd)) / 0x6 +
-        parseInt(_0x5cdff2(0x1e7)) / 0x7 +
-        (-parseInt(_0x5cdff2(0x205)) / 0x8) *
-          (parseInt(_0x5cdff2(0x208)) / 0x9);
-      if (_0x18252d === _0x1f9e63) break;
-      else _0x392647["push"](_0x392647["shift"]());
-    } catch (_0x2ddd37) {
-      _0x392647["push"](_0x392647["shift"]());
+      const _0x544a86 =
+        (-parseInt(_0x299a0d(0xbd)) / 0x1) * (parseInt(_0x299a0d(0x98)) / 0x2) +
+        -parseInt(_0x299a0d(0xc0)) / 0x3 +
+        -parseInt(_0x299a0d(0x9c)) / 0x4 +
+        parseInt(_0x299a0d(0xbf)) / 0x5 +
+        (parseInt(_0x299a0d(0xc2)) / 0x6) * (-parseInt(_0x299a0d(0xb0)) / 0x7) +
+        (parseInt(_0x299a0d(0xb7)) / 0x8) * (parseInt(_0x299a0d(0x9f)) / 0x9) +
+        parseInt(_0x299a0d(0xa8)) / 0xa;
+      if (_0x544a86 === _0x37a6f8) break;
+      else _0x5523a8["push"](_0x5523a8["shift"]());
+    } catch (_0x234b0e) {
+      _0x5523a8["push"](_0x5523a8["shift"]());
     }
   }
-})(_0xce6e, 0x2588c);
-const app = require(_0x47df5e(0x1f4)),
-  logger = require(_0x47df5e(0x206)),
-  sleep = require(_0x47df5e(0x215));
-function _0x4dc9(_0x2623a6, _0x378a27) {
-  const _0xce6ec4 = _0xce6e();
-  return (
-    (_0x4dc9 = function (_0x4dc9c7, _0x1e245b) {
-      _0x4dc9c7 = _0x4dc9c7 - 0x1e5;
-      let _0x46c658 = _0xce6ec4[_0x4dc9c7];
-      return _0x46c658;
-    }),
-    _0x4dc9(_0x2623a6, _0x378a27)
-  );
-}
-function _0xce6e() {
-  const _0x14bd6b = [
-    "getaddrinfo",
-    "659350STYHCa",
-    "buy_card",
-    "\x20|\x20Error\x20while\x20<b>applying\x20boost\x20(",
-    "session_name",
-    "/boosts/upgrade/",
+})(_0x394f, 0x56415);
+function _0x394f() {
+  const _0x2c2a28 = [
+    "\x20|\x20Error\x20while\x20<b>buying\x20card:</b>:\x20",
+    "/boosts/action/",
+    "\x20|\x20Error\x20while\x20<b>claiming\x20daily\x20reward</b>:\x20",
     "/taps",
-    "data",
-    "get_cards",
-    "claim_daily_reward",
-    "../config/app",
-    "152459reqNnx",
-    "/dungeon",
-    "The\x20proxy\x20server\x20at\x20",
-    "apply_boost",
-    "\x20|\x20Error\x20while\x20<b>sending\x20taps:</b>\x20",
-    "includes",
     "match",
-    "/taps/mega",
-    "1403226oivzfS",
-    "2emmNpN",
-    "send_taps",
-    "post",
-    "upgrade_boost",
-    "apiUrl",
+    "\x20|\x20Error\x20while\x20<b>sending\x20taps:</b>:\x20",
     "message",
-    "get_daily_reward",
-    "8YjdiMW",
+    "350uVSDVZ",
+    "buy_card",
+    "session_name",
     "../utils/logger",
-    "get_user_data",
-    "2957319dvxAWF",
-    "stringify",
-    "693612PhRFoP",
-    "):</b>\x20",
-    "\x20|\x20Error\x20while\x20<b>getting\x20cards:</b>\x20",
-    "/boosts",
-    "get",
+    "apiUrl",
+    "/dungeon",
+    "getaddrinfo",
+    "72jjahCE",
     "error",
-    "391596AtpJQf",
+    "../utils/sleep",
+    "stringify",
+    "\x20|\x20Error\x20while\x20<b>buying\x20card:</b>\x20",
     "exports",
+    "152058gsCsYo",
+    "\x20|\x20Error\x20while\x20<b>getting\x20cards:</b>\x20",
+    "2990065BPnZbx",
+    "424860fMAKXh",
+    "data",
+    "32484umcmFb",
+    "apply_boost",
+    "\x20|\x20Error\x20while\x20<b>getting\x20daily\x20reward</b>:\x20",
+    "send_mega_taps",
+    "ECONNREFUSED",
+    "ENOTFOUND",
     "/upgrade/",
     "unknown\x20address",
-    "send_mega_taps",
-    "../utils/sleep",
-    "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection",
-    "\x20|\x20Error\x20while\x20<b>claiming\x20daily\x20reward</b>:\x20",
-    "get_boost",
-    "719390FIAejw",
+    "response",
+    "/boosts",
+    "get",
+    "get_user_data",
+    "8fTzApA",
     "/dungeon/",
-    "/daily/claim",
+    "\x20|\x20Error\x20while\x20<b>upgrading\x20Boost:</b>:\x20",
+    "send_taps",
+    "569988veCoBR",
+    "get_boost",
+    "upgrade_boost",
+    "568845rLzKeE",
+    "/daily/list",
+    "\x20|\x20Error\x20while\x20<b>getting\x20boost:</b>:\x20",
+    "post",
+    "includes",
+    "../config/app",
+    "get_daily_reward",
+    "\x20|\x20Error\x20while\x20<b>applying\x20boost\x20(",
+    "):</b>\x20",
+    "3494920QtBIhO",
   ];
-  _0xce6e = function () {
-    return _0x14bd6b;
+  _0x394f = function () {
+    return _0x2c2a28;
   };
-  return _0xce6e();
+  return _0x394f();
+}
+const app = require(_0x4aee72(0xa4)),
+  logger = require(_0x4aee72(0xb3)),
+  sleep = require(_0x4aee72(0xb9));
+function _0x3a15(_0x1bcb04, _0x3ba7ec) {
+  const _0x394fc8 = _0x394f();
+  return (
+    (_0x3a15 = function (_0x3a15e8, _0x34142a) {
+      _0x3a15e8 = _0x3a15e8 - 0x8e;
+      let _0x149304 = _0x394fc8[_0x3a15e8];
+      return _0x149304;
+    }),
+    _0x3a15(_0x1bcb04, _0x3ba7ec)
+  );
 }
 class ApiRequest {
-  constructor(_0x287779) {
-    const _0x5752a3 = _0x47df5e;
-    this[_0x5752a3(0x1ee)] = _0x287779;
+  constructor(_0x56fabb) {
+    const _0x4e300e = _0x4aee72;
+    this[_0x4e300e(0xb2)] = _0x56fabb;
   }
-  async [_0x47df5e(0x207)](_0x5dd9d8) {
-    const _0x554169 = _0x47df5e;
+  async [_0x4aee72(0x97)](_0x5b9cb4) {
+    const _0x47e9f1 = _0x4aee72;
     try {
-      const _0x9b686f = await _0x5dd9d8[_0x554169(0x20e)](
-        app[_0x554169(0x202)] + "/"
+      const _0x4b07ae = await _0x5b9cb4[_0x47e9f1(0x96)](
+        app[_0x47e9f1(0xb4)] + "/"
       );
-      return _0x9b686f["data"];
-    } catch (_0x962fa7) {
-      const _0x46aa84 = /ENOTFOUND\s([^\s]+)/,
-        _0x56108f = _0x962fa7[_0x554169(0x203)][_0x554169(0x1fb)](_0x46aa84);
-      logger[_0x554169(0x20f)](
-        this[_0x554169(0x1ee)] +
+      return _0x4b07ae[_0x47e9f1(0xc1)];
+    } catch (_0x374083) {
+      const _0x1e6698 = /ENOTFOUND\s([^\s]+)/,
+        _0x1af9d9 = _0x374083[_0x47e9f1(0xaf)][_0x47e9f1(0xad)](_0x1e6698);
+      logger[_0x47e9f1(0xb8)](
+        this["session_name"] +
           "\x20|\x20Error\x20while\x20getting\x20User\x20Data:\x20" +
-          (_0x962fa7[_0x554169(0x203)][_0x554169(0x1fa)]("ENOTFOUND") ||
-          _0x962fa7["message"]["includes"](_0x554169(0x1ea)) ||
-          _0x962fa7[_0x554169(0x203)][_0x554169(0x1fa)]("ECONNREFUSED")
-            ? _0x554169(0x1f7) +
-              (_0x56108f && _0x56108f[0x1]
-                ? _0x56108f[0x1]
-                : _0x554169(0x213)) +
-              _0x554169(0x216)
-            : _0x962fa7[_0x554169(0x203)])
+          (_0x374083[_0x47e9f1(0xaf)][_0x47e9f1(0xa3)](_0x47e9f1(0x91)) ||
+          _0x374083[_0x47e9f1(0xaf)][_0x47e9f1(0xa3)](_0x47e9f1(0xb6)) ||
+          _0x374083[_0x47e9f1(0xaf)][_0x47e9f1(0xa3)](_0x47e9f1(0x90))
+            ? "The\x20proxy\x20server\x20at\x20" +
+              (_0x1af9d9 && _0x1af9d9[0x1] ? _0x1af9d9[0x1] : _0x47e9f1(0x93)) +
+              "\x20could\x20not\x20be\x20found.\x20Please\x20check\x20the\x20proxy\x20address\x20and\x20your\x20network\x20connection"
+            : _0x374083[_0x47e9f1(0xaf)])
       ),
         await sleep(0x3);
     }
   }
-  async [_0x47df5e(0x204)](_0x196d36) {
-    const _0x8596aa = _0x47df5e;
+  async [_0x4aee72(0xa5)](_0xdd1662) {
+    const _0xe4e7cb = _0x4aee72;
     try {
-      const _0x3cf854 = await _0x196d36[_0x8596aa(0x20e)](
-        app["apiUrl"] + "/daily/list"
+      const _0x398a68 = await _0xdd1662[_0xe4e7cb(0x96)](
+        app[_0xe4e7cb(0xb4)] + _0xe4e7cb(0xa0)
       );
-      return _0x3cf854[_0x8596aa(0x1f1)];
-    } catch (_0x2f7c2d) {
-      logger["error"](
-        this["session_name"] +
-          "\x20|\x20Error\x20while\x20<b>getting\x20daily\x20reward</b>:\x20" +
-          _0x2f7c2d[_0x8596aa(0x203)]
-      );
+      return _0x398a68[_0xe4e7cb(0xc1)];
+    } catch (_0x11af04) {
+      _0x11af04?.["response"] && _0x11af04?.["response"]["data"]
+        ? logger["error"](
+            this[_0xe4e7cb(0xb2)] +
+              _0xe4e7cb(0x8e) +
+              _0x11af04[_0xe4e7cb(0x94)][_0xe4e7cb(0xc1)]
+          )
+        : logger[_0xe4e7cb(0xb8)](
+            this[_0xe4e7cb(0xb2)] + _0xe4e7cb(0x8e) + _0x11af04[_0xe4e7cb(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x1f3)](_0x48106f) {
-    const _0x4746cc = _0x47df5e;
+  async ["claim_daily_reward"](_0x51dd9d) {
+    const _0x9b31f5 = _0x4aee72;
     try {
-      const _0x5775a8 = await _0x48106f[_0x4746cc(0x200)](
-        app[_0x4746cc(0x202)] + _0x4746cc(0x1e9)
+      const _0x4650f0 = await _0x51dd9d[_0x9b31f5(0xa2)](
+        app[_0x9b31f5(0xb4)] + "/daily/claim"
       );
-      return _0x5775a8["data"];
-    } catch (_0x2ecc27) {
-      logger[_0x4746cc(0x20f)](
-        this[_0x4746cc(0x1ee)] + _0x4746cc(0x1e5) + _0x2ecc27[_0x4746cc(0x203)]
-      );
+      return _0x4650f0[_0x9b31f5(0xc1)];
+    } catch (_0xc23745) {
+      _0xc23745?.["response"] && _0xc23745?.[_0x9b31f5(0x94)][_0x9b31f5(0xc1)]
+        ? logger[_0x9b31f5(0xb8)](
+            this["session_name"] +
+              _0x9b31f5(0xab) +
+              _0xc23745[_0x9b31f5(0x94)][_0x9b31f5(0xc1)]
+          )
+        : logger[_0x9b31f5(0xb8)](
+            this[_0x9b31f5(0xb2)] + _0x9b31f5(0xab) + _0xc23745[_0x9b31f5(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x201)](_0x21e4b2, _0x50fa7e, _0x432214) {
-    const _0x5115d9 = _0x47df5e;
+  async [_0x4aee72(0x9e)](_0x572b68, _0x34a759, _0x658115) {
+    const _0x54c493 = _0x4aee72;
     try {
-      const _0x1294b4 = await _0x21e4b2["post"](
-        app[_0x5115d9(0x202)] + _0x5115d9(0x1ef) + _0x50fa7e + "/" + _0x432214
+      const _0x56bf2b = await _0x572b68[_0x54c493(0xa2)](
+        app[_0x54c493(0xb4)] + "/boosts/upgrade/" + _0x34a759 + "/" + _0x658115
       );
-      return _0x1294b4["data"];
-    } catch (_0x259dbd) {
-      logger[_0x5115d9(0x20f)](
-        this[_0x5115d9(0x1ee)] +
-          "\x20|\x20Error\x20while\x20<b>upgrading\x20Boost:</b>:\x20" +
-          _0x259dbd[_0x5115d9(0x203)]
-      );
+      return _0x56bf2b[_0x54c493(0xc1)];
+    } catch (_0xb25927) {
+      _0xb25927?.[_0x54c493(0x94)] &&
+      _0xb25927?.[_0x54c493(0x94)][_0x54c493(0xc1)]
+        ? logger["error"](
+            this[_0x54c493(0xb2)] +
+              _0x54c493(0x9a) +
+              _0xb25927[_0x54c493(0x94)][_0x54c493(0xc1)]
+          )
+        : logger["error"](
+            this[_0x54c493(0xb2)] + _0x54c493(0x9a) + _0xb25927["message"]
+          );
     }
   }
-  async [_0x47df5e(0x1ff)](_0x37b66a, _0x1545d4) {
-    const _0x19e0ee = _0x47df5e;
+  async [_0x4aee72(0x9b)](_0x53cb33, _0x135aae) {
+    const _0x20ed2f = _0x4aee72;
     try {
-      const _0x4655b4 = await _0x37b66a[_0x19e0ee(0x200)](
-        app[_0x19e0ee(0x202)] + _0x19e0ee(0x1f0),
-        JSON[_0x19e0ee(0x209)]({ coins: _0x1545d4 })
+      const _0xcb9705 = await _0x53cb33["post"](
+        app[_0x20ed2f(0xb4)] + _0x20ed2f(0xac),
+        JSON[_0x20ed2f(0xba)]({ coins: _0x135aae })
       );
-      return _0x4655b4[_0x19e0ee(0x1f1)];
-    } catch (_0x1d6b49) {
-      logger[_0x19e0ee(0x20f)](
-        this[_0x19e0ee(0x1ee)] + _0x19e0ee(0x1f9) + _0x1d6b49[_0x19e0ee(0x203)]
-      );
+      return _0xcb9705[_0x20ed2f(0xc1)];
+    } catch (_0xba1f29) {
+      _0xba1f29?.["response"] && _0xba1f29?.["response"][_0x20ed2f(0xc1)]
+        ? logger["error"](
+            this[_0x20ed2f(0xb2)] +
+              _0x20ed2f(0xae) +
+              _0xba1f29[_0x20ed2f(0x94)][_0x20ed2f(0xc1)]
+          )
+        : logger[_0x20ed2f(0xb8)](
+            this[_0x20ed2f(0xb2)] +
+              "\x20|\x20Error\x20while\x20<b>sending\x20taps:</b>:\x20" +
+              _0xba1f29[_0x20ed2f(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x214)](_0x57f973, _0x5b946a) {
-    const _0x5bd5e4 = _0x47df5e;
+  async [_0x4aee72(0x8f)](_0x471622, _0xc7c2bc) {
+    const _0x34b898 = _0x4aee72;
     try {
-      const _0x2eae2e = await _0x57f973[_0x5bd5e4(0x200)](
-        app[_0x5bd5e4(0x202)] + _0x5bd5e4(0x1fc),
-        JSON["stringify"]({ coins: _0x5b946a })
+      const _0x3ae962 = await _0x471622[_0x34b898(0xa2)](
+        app["apiUrl"] + "/taps/mega",
+        JSON[_0x34b898(0xba)]({ coins: _0xc7c2bc })
       );
-      return _0x2eae2e[_0x5bd5e4(0x1f1)];
-    } catch (_0x360d9f) {
-      logger[_0x5bd5e4(0x20f)](
-        this[_0x5bd5e4(0x1ee)] + _0x5bd5e4(0x1f9) + _0x360d9f[_0x5bd5e4(0x203)]
-      );
+      return _0x3ae962[_0x34b898(0xc1)];
+    } catch (_0x5ebf61) {
+      _0x5ebf61?.["response"] && _0x5ebf61?.[_0x34b898(0x94)][_0x34b898(0xc1)]
+        ? logger[_0x34b898(0xb8)](
+            this[_0x34b898(0xb2)] +
+              "\x20|\x20Error\x20while\x20<b>sending\x20taps:</b>:\x20" +
+              _0x5ebf61[_0x34b898(0x94)]["data"]
+          )
+        : logger[_0x34b898(0xb8)](
+            this[_0x34b898(0xb2)] + _0x34b898(0xae) + _0x5ebf61[_0x34b898(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x1f8)](_0x419465, _0x3e5518) {
-    const _0x38db92 = _0x47df5e;
+  async [_0x4aee72(0xc3)](_0x4558d8, _0xf64ab4) {
+    const _0x2efaef = _0x4aee72;
     try {
-      const _0x195e6d = await _0x419465[_0x38db92(0x200)](
-        app[_0x38db92(0x202)] + "/boosts/action/" + _0x3e5518
+      const _0x420bf7 = await _0x4558d8[_0x2efaef(0xa2)](
+        app["apiUrl"] + _0x2efaef(0xaa) + _0xf64ab4
       );
-      return _0x195e6d[_0x38db92(0x1f1)];
-    } catch (_0x4ace1b) {
-      logger[_0x38db92(0x20f)](
-        this[_0x38db92(0x1ee)] +
-          _0x38db92(0x1ed) +
-          _0x3e5518 +
-          _0x38db92(0x20b) +
-          _0x4ace1b[_0x38db92(0x203)]
-      );
+      return _0x420bf7[_0x2efaef(0xc1)];
+    } catch (_0x3cb6d5) {
+      _0x3cb6d5?.["response"] && _0x3cb6d5?.[_0x2efaef(0x94)][_0x2efaef(0xc1)]
+        ? logger[_0x2efaef(0xb8)](
+            this[_0x2efaef(0xb2)] +
+              _0x2efaef(0xa6) +
+              _0xf64ab4 +
+              "):</b>:\x20" +
+              _0x3cb6d5[_0x2efaef(0x94)][_0x2efaef(0xc1)]
+          )
+        : logger[_0x2efaef(0xb8)](
+            this[_0x2efaef(0xb2)] +
+              _0x2efaef(0xa6) +
+              _0xf64ab4 +
+              _0x2efaef(0xa7) +
+              _0x3cb6d5[_0x2efaef(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x1e6)](_0x169fda) {
-    const _0x4565b4 = _0x47df5e;
+  async [_0x4aee72(0x9d)](_0x118dab) {
+    const _0x3695a8 = _0x4aee72;
     try {
-      const _0x2c6034 = await _0x169fda["get"](
-        app[_0x4565b4(0x202)] + _0x4565b4(0x20d)
+      const _0xb72d3f = await _0x118dab["get"](
+        app[_0x3695a8(0xb4)] + _0x3695a8(0x95)
       );
-      return _0x2c6034[_0x4565b4(0x1f1)];
-    } catch (_0xc03529) {
-      logger[_0x4565b4(0x20f)](
-        this["session_name"] +
-          _0x4565b4(0x1ed) +
-          boost_type +
-          _0x4565b4(0x20b) +
-          _0xc03529[_0x4565b4(0x203)]
-      );
+      return _0xb72d3f[_0x3695a8(0xc1)];
+    } catch (_0x623699) {
+      _0x623699?.["response"] && _0x623699?.["response"][_0x3695a8(0xc1)]
+        ? logger[_0x3695a8(0xb8)](
+            this[_0x3695a8(0xb2)] +
+              _0x3695a8(0xa1) +
+              _0x623699["response"][_0x3695a8(0xc1)]
+          )
+        : logger[_0x3695a8(0xb8)](
+            this["session_name"] + _0x3695a8(0xa1) + _0x623699[_0x3695a8(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x1f2)](_0x219535) {
-    const _0x32f643 = _0x47df5e;
+  async ["get_cards"](_0x3dea61) {
+    const _0x160821 = _0x4aee72;
     try {
-      const _0x1d0c52 = await _0x219535[_0x32f643(0x20e)](
-        app[_0x32f643(0x202)] + _0x32f643(0x1f6)
+      const _0x1dabad = await _0x3dea61[_0x160821(0x96)](
+        app[_0x160821(0xb4)] + _0x160821(0xb5)
       );
-      return _0x1d0c52[_0x32f643(0x1f1)];
-    } catch (_0x224d2e) {
-      logger[_0x32f643(0x20f)](
-        this[_0x32f643(0x1ee)] + _0x32f643(0x20c) + _0x224d2e[_0x32f643(0x203)]
-      );
+      return _0x1dabad["data"];
+    } catch (_0x59377a) {
+      _0x59377a?.[_0x160821(0x94)] && _0x59377a?.[_0x160821(0x94)]["data"]
+        ? logger["error"](
+            this[_0x160821(0xb2)] +
+              "\x20|\x20Error\x20while\x20<b>getting\x20cards:</b>:\x20" +
+              _0x59377a[_0x160821(0x94)][_0x160821(0xc1)]
+          )
+        : logger[_0x160821(0xb8)](
+            this[_0x160821(0xb2)] + _0x160821(0xbe) + _0x59377a[_0x160821(0xaf)]
+          );
     }
   }
-  async [_0x47df5e(0x1ec)](_0x4764d7, _0x597603, _0x49d10c) {
-    const _0x37e802 = _0x47df5e;
+  async [_0x4aee72(0xb1)](_0xa37894, _0x350439, _0x13c395) {
+    const _0x2daf0e = _0x4aee72;
     try {
-      const _0x1ebd3f = await _0x4764d7[_0x37e802(0x200)](
-        app["apiUrl"] +
-          _0x37e802(0x1e8) +
-          _0x597603 +
-          _0x37e802(0x212) +
-          _0x49d10c
+      const _0x3d27fd = await _0xa37894[_0x2daf0e(0xa2)](
+        app[_0x2daf0e(0xb4)] +
+          _0x2daf0e(0x99) +
+          _0x350439 +
+          _0x2daf0e(0x92) +
+          _0x13c395
       );
-      return _0x1ebd3f[_0x37e802(0x1f1)];
-    } catch (_0x45e475) {
-      logger[_0x37e802(0x20f)](
-        this[_0x37e802(0x1ee)] +
-          "\x20|\x20Error\x20while\x20<b>buying\x20card:</b>\x20" +
-          _0x45e475[_0x37e802(0x203)]
-      );
+      return _0x3d27fd[_0x2daf0e(0xc1)];
+    } catch (_0x3c7303) {
+      _0x3c7303?.["response"] && _0x3c7303?.[_0x2daf0e(0x94)][_0x2daf0e(0xc1)]
+        ? logger[_0x2daf0e(0xb8)](
+            this[_0x2daf0e(0xb2)] +
+              _0x2daf0e(0xa9) +
+              _0x3c7303["response"]["data"]
+          )
+        : logger[_0x2daf0e(0xb8)](
+            this[_0x2daf0e(0xb2)] + _0x2daf0e(0xbb) + _0x3c7303["message"]
+          );
     }
   }
 }
-module[_0x47df5e(0x211)] = ApiRequest;
+module[_0x4aee72(0xbc)] = ApiRequest;
